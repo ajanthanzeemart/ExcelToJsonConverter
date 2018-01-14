@@ -1,0 +1,39 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee" xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:task="http://www.springframework.org/schema/task"
+	xsi:schemaLocation="
+            http://www.springframework.org/schema/beans     
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/tx 
+            http://www.springframework.org/schema/tx/spring-tx.xsd
+            http://www.springframework.org/schema/context 
+            http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean id="environmentVariablesConfiguration"
+		class="org.jasypt.encryption.pbe.config.EnvironmentStringPBEConfig">
+		<property name="algorithm" value="PBEWithMD5AndDES" />
+		<property name="passwordEnvName" value="APP_ENCRYPTION_PASSWORD" />
+	</bean>
+	<bean id="configurationEncryptor" class="org.jasypt.encryption.pbe.StandardPBEStringEncryptor">
+		<property name="config" ref="environmentVariablesConfiguration" />
+	</bean>
+	<bean id="propertyConfigurer"
+		class="org.jasypt.spring31.properties.EncryptablePropertyPlaceholderConfigurer">
+		<constructor-arg ref="configurationEncryptor" />
+		<property name="location">
+			<value>config.properties</value>
+		</property>
+	</bean>
+	<bean id="Config" class="com.zm.redqueen.config.Config">
+		<property name="dbUserName" value="${DbUserName}" />
+		<property name="dbPassword" value="${DbPassword}" />
+		<property name="userCollectionHostName" value="${UserCollectionHostName}" />
+		<property name="userCollectionPort" value="${UserCollectionPort}" />
+		<property name="UserCollectionDBName" value="${UserCollectionDBName}" />
+		<property name="SIAAuthServerURL" value="${SIAAuthServerURL}" />
+		<property name="ZMNotificationServerURL" value="${ZMNotificationServerURL}" />
+		<property name="ZMVerificationCodeURL" value="${ZMVerificationCodeURL}" />
+	</bean>
+</beans>
