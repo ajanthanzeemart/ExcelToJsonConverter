@@ -1,9 +1,12 @@
 package com.zm.redqueen;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.regex.Pattern;
@@ -19,13 +22,27 @@ import org.codehaus.jettison.json.JSONArray;
 import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 
+/**
+ * This class generates nsted JSOn objects using the special format excel sheets
+ * 
+ * @author AjanthanSivalingaraj
+ *
+ */
 public class ExcelToNestedJSONObject {
 	private static Logger log = Logger.getLogger(ExcelToNestedJSONObject.class.getName());
 
-	public static void main(String[] args) throws JSONException {
-		ClassLoader classLoader = ExcelToNestedJSONObject.class.getClassLoader();
-		File file = new File(classLoader.getResource("Migration.xlsx").getFile());
+	enum SHEET_NAME {
+		Outlets, Outlet_users, Suppliers, Supplier_Users, Def_Del_Pref, 
+		Outlet_Del_Pref, Products, Products_Dual_UOM, Products_Tripple_UOM, 
+		Market_List, Market_List_Dual_UOM
+	};
 
+	public static void main(String[] args) throws JSONException {
+		// ClassLoader classLoader = ExcelToNestedJSONObject.class.getClassLoader();
+		String baseFileDir = "C:/Dev/Docs/Migration/Roo's/1.1/";
+		File file = new File(baseFileDir + "Phoenix_Data_WO_Formulas_v1.0.xlsx");
+
+		String sheetName = SHEET_NAME.Market_List_Dual_UOM.name();
 		log.info(file.getPath());
 
 		try {
@@ -33,8 +50,12 @@ public class ExcelToNestedJSONObject {
 			FileInputStream excelFile = new FileInputStream(file);
 			@SuppressWarnings("resource")
 			Workbook workbook = new XSSFWorkbook(excelFile);
-			Sheet datatypeSheet = workbook.getSheetAt(0);
+			Sheet datatypeSheet = workbook.getSheet(sheetName); // sheet name
+
 			Iterator<Row> iterator = datatypeSheet.iterator();
+			File fout = new File(baseFileDir + sheetName + ".json"); // json outputfile name
+			FileOutputStream fos = new FileOutputStream(fout);
+			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
 
 			JSONArray dataArray = new JSONArray();
 
@@ -72,6 +93,17 @@ public class ExcelToNestedJSONObject {
 						} else if (currentCell.getCellTypeEnum() == CellType.BOOLEAN) {
 							Boolean value = currentCell.getBooleanCellValue();
 							recursiveObjCreate(rowData, keyParts, value);
+						} else if (currentCell.getCellTypeEnum() == CellType.FORMULA) {
+							String value = currentCell.getStringCellValue();
+							if (value.toLowerCase().equals("false")) {
+								recursiveObjCreate(rowData, keyParts, false);
+							} else if (value.toLowerCase().equals("true")) {
+								recursiveObjCreate(rowData, keyParts, true);
+							} else {
+								recursiveObjCreate(rowData, keyParts, value);
+							}
+						} else {
+							recursiveObjCreate(rowData, keyParts, "");
 						}
 					}
 				}
@@ -79,6 +111,10 @@ public class ExcelToNestedJSONObject {
 					dataArray.put(rowData);
 				}
 			}
+
+			bw.write(dataArray.toString());
+			bw.close();
+
 			System.out.println(dataArray.toString());
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
