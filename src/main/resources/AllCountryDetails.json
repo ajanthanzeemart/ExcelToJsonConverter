@@ -1,0 +1,3433 @@
+[{
+	"name": "Afghanistan",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "AF",
+	"countryCode3": "AFG",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Kabul",
+		"offsetTimeZone": "(GMT+04:30) Asia/Kabul"
+	}]
+}, {
+	"name": "Åland Islands",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "AX",
+	"countryCode3": "ALA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Mariehamn",
+		"offsetTimeZone": "(GMT+02:00) Europe/Mariehamn"
+	}]
+}, {
+	"name": "Albania",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "AL",
+	"countryCode3": "ALB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Tirane",
+		"offsetTimeZone": "(GMT+01:00) Europe/Tirane"
+	}]
+}, {
+	"name": "Algeria",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "DZ",
+	"countryCode3": "DZA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Algiers",
+		"offsetTimeZone": "(GMT+01:00) Africa/Algiers"
+	}]
+}, {
+	"name": "American Samoa",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "AS",
+	"countryCode3": "ASM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Pago_Pago",
+		"offsetTimeZone": "(GMT-11:00) Pacific/Pago_Pago"
+	}, {
+		"timeZoneId": "Pacific/Samoa",
+		"offsetTimeZone": "(GMT-11:00) Pacific/Samoa"
+	}, {
+		"timeZoneId": "US/Samoa",
+		"offsetTimeZone": "(GMT-11:00) US/Samoa"
+	}]
+}, {
+	"name": "Andorra",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "AD",
+	"countryCode3": "AND",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Andorra",
+		"offsetTimeZone": "(GMT+01:00) Europe/Andorra"
+	}]
+}, {
+	"name": "Angola",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "AO",
+	"countryCode3": "AGO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Luanda",
+		"offsetTimeZone": "(GMT+01:00) Africa/Luanda"
+	}]
+}, {
+	"name": "Anguilla",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "AI",
+	"countryCode3": "AIA",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Anguilla",
+		"offsetTimeZone": "(GMT-04:00) America/Anguilla"
+	}]
+}, {
+	"name": "Antarctica",
+	"region": "",
+	"sub-region": "",
+	"countryCode": "AQ",
+	"countryCode3": "ATA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Antarctica/Casey",
+		"offsetTimeZone": "(GMT+11:00) Antarctica/Casey"
+	}, {
+		"timeZoneId": "Antarctica/Davis",
+		"offsetTimeZone": "(GMT+07:00) Antarctica/Davis"
+	}, {
+		"timeZoneId": "Antarctica/DumontDUrville",
+		"offsetTimeZone": "(GMT+10:00) Antarctica/DumontDUrville"
+	}, {
+		"timeZoneId": "Antarctica/Mawson",
+		"offsetTimeZone": "(GMT+05:00) Antarctica/Mawson"
+	}, {
+		"timeZoneId": "Antarctica/McMurdo",
+		"offsetTimeZone": "(GMT+12:00) Antarctica/McMurdo"
+	}, {
+		"timeZoneId": "Antarctica/Palmer",
+		"offsetTimeZone": "(GMT-03:00) Antarctica/Palmer"
+	}, {
+		"timeZoneId": "Antarctica/Rothera",
+		"offsetTimeZone": "(GMT-03:00) Antarctica/Rothera"
+	}, {
+		"timeZoneId": "Antarctica/Syowa",
+		"offsetTimeZone": "(GMT+03:00) Antarctica/Syowa"
+	}, {
+		"timeZoneId": "Antarctica/Troll",
+		"offsetTimeZone": "(GMT+00:00) Antarctica/Troll"
+	}, {
+		"timeZoneId": "Antarctica/Vostok",
+		"offsetTimeZone": "(GMT+06:00) Antarctica/Vostok"
+	}]
+}, {
+	"name": "Antigua and Barbuda",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "AG",
+	"countryCode3": "ATG",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Antigua",
+		"offsetTimeZone": "(GMT-04:00) America/Antigua"
+	}]
+}, {
+	"name": "Argentina",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "AR",
+	"countryCode3": "ARG",
+	"timeZoneOffset": [{
+		"timeZoneId": "AGT",
+		"offsetTimeZone": "(GMT-03:00) AGT"
+	}, {
+		"timeZoneId": "America/Argentina/Buenos_Aires",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Buenos_Aires"
+	}, {
+		"timeZoneId": "America/Argentina/Catamarca",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Catamarca"
+	}, {
+		"timeZoneId": "America/Argentina/ComodRivadavia",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/ComodRivadavia"
+	}, {
+		"timeZoneId": "America/Argentina/Cordoba",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Cordoba"
+	}, {
+		"timeZoneId": "America/Argentina/Jujuy",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Jujuy"
+	}, {
+		"timeZoneId": "America/Argentina/La_Rioja",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/La_Rioja"
+	}, {
+		"timeZoneId": "America/Argentina/Mendoza",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Mendoza"
+	}, {
+		"timeZoneId": "America/Argentina/Rio_Gallegos",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Rio_Gallegos"
+	}, {
+		"timeZoneId": "America/Argentina/Salta",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Salta"
+	}, {
+		"timeZoneId": "America/Argentina/San_Juan",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/San_Juan"
+	}, {
+		"timeZoneId": "America/Argentina/San_Luis",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/San_Luis"
+	}, {
+		"timeZoneId": "America/Argentina/Tucuman",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Tucuman"
+	}, {
+		"timeZoneId": "America/Argentina/Ushuaia",
+		"offsetTimeZone": "(GMT-03:00) America/Argentina/Ushuaia"
+	}, {
+		"timeZoneId": "America/Buenos_Aires",
+		"offsetTimeZone": "(GMT-03:00) America/Buenos_Aires"
+	}, {
+		"timeZoneId": "America/Catamarca",
+		"offsetTimeZone": "(GMT-03:00) America/Catamarca"
+	}, {
+		"timeZoneId": "America/Cordoba",
+		"offsetTimeZone": "(GMT-03:00) America/Cordoba"
+	}, {
+		"timeZoneId": "America/Jujuy",
+		"offsetTimeZone": "(GMT-03:00) America/Jujuy"
+	}, {
+		"timeZoneId": "America/Mendoza",
+		"offsetTimeZone": "(GMT-03:00) America/Mendoza"
+	}, {
+		"timeZoneId": "America/Rosario",
+		"offsetTimeZone": "(GMT-03:00) America/Rosario"
+	}]
+}, {
+	"name": "Armenia",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "AM",
+	"countryCode3": "ARM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Yerevan",
+		"offsetTimeZone": "(GMT+04:00) Asia/Yerevan"
+	}, {
+		"timeZoneId": "NET",
+		"offsetTimeZone": "(GMT+04:00) NET"
+	}]
+}, {
+	"name": "Aruba",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "AW",
+	"countryCode3": "ABW",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Aruba",
+		"offsetTimeZone": "(GMT-04:00) America/Aruba"
+	}]
+}, {
+	"name": "Australia",
+	"region": "Oceania",
+	"sub-region": "Australia and New Zealand",
+	"countryCode": "AU",
+	"countryCode3": "AUS",
+	"timeZoneOffset": [{
+		"timeZoneId": "ACT",
+		"offsetTimeZone": "(GMT+09:30) ACT"
+	}, {
+		"timeZoneId": "AET",
+		"offsetTimeZone": "(GMT+10:00) AET"
+	}, {
+		"timeZoneId": "Antarctica/Macquarie",
+		"offsetTimeZone": "(GMT+11:00) Antarctica/Macquarie"
+	}, {
+		"timeZoneId": "Australia/ACT",
+		"offsetTimeZone": "(GMT+10:00) Australia/ACT"
+	}, {
+		"timeZoneId": "Australia/Adelaide",
+		"offsetTimeZone": "(GMT+09:30) Australia/Adelaide"
+	}, {
+		"timeZoneId": "Australia/Brisbane",
+		"offsetTimeZone": "(GMT+10:00) Australia/Brisbane"
+	}, {
+		"timeZoneId": "Australia/Broken_Hill",
+		"offsetTimeZone": "(GMT+09:30) Australia/Broken_Hill"
+	}, {
+		"timeZoneId": "Australia/Canberra",
+		"offsetTimeZone": "(GMT+10:00) Australia/Canberra"
+	}, {
+		"timeZoneId": "Australia/Currie",
+		"offsetTimeZone": "(GMT+10:00) Australia/Currie"
+	}, {
+		"timeZoneId": "Australia/Darwin",
+		"offsetTimeZone": "(GMT+09:30) Australia/Darwin"
+	}, {
+		"timeZoneId": "Australia/Eucla",
+		"offsetTimeZone": "(GMT+08:45) Australia/Eucla"
+	}, {
+		"timeZoneId": "Australia/Hobart",
+		"offsetTimeZone": "(GMT+10:00) Australia/Hobart"
+	}, {
+		"timeZoneId": "Australia/LHI",
+		"offsetTimeZone": "(GMT+10:30) Australia/LHI"
+	}, {
+		"timeZoneId": "Australia/Lindeman",
+		"offsetTimeZone": "(GMT+10:00) Australia/Lindeman"
+	}, {
+		"timeZoneId": "Australia/Lord_Howe",
+		"offsetTimeZone": "(GMT+10:30) Australia/Lord_Howe"
+	}, {
+		"timeZoneId": "Australia/Melbourne",
+		"offsetTimeZone": "(GMT+10:00) Australia/Melbourne"
+	}, {
+		"timeZoneId": "Australia/NSW",
+		"offsetTimeZone": "(GMT+10:00) Australia/NSW"
+	}, {
+		"timeZoneId": "Australia/North",
+		"offsetTimeZone": "(GMT+09:30) Australia/North"
+	}, {
+		"timeZoneId": "Australia/Perth",
+		"offsetTimeZone": "(GMT+08:00) Australia/Perth"
+	}, {
+		"timeZoneId": "Australia/Queensland",
+		"offsetTimeZone": "(GMT+10:00) Australia/Queensland"
+	}, {
+		"timeZoneId": "Australia/South",
+		"offsetTimeZone": "(GMT+09:30) Australia/South"
+	}, {
+		"timeZoneId": "Australia/Sydney",
+		"offsetTimeZone": "(GMT+10:00) Australia/Sydney"
+	}, {
+		"timeZoneId": "Australia/Tasmania",
+		"offsetTimeZone": "(GMT+10:00) Australia/Tasmania"
+	}, {
+		"timeZoneId": "Australia/Victoria",
+		"offsetTimeZone": "(GMT+10:00) Australia/Victoria"
+	}, {
+		"timeZoneId": "Australia/West",
+		"offsetTimeZone": "(GMT+08:00) Australia/West"
+	}, {
+		"timeZoneId": "Australia/Yancowinna",
+		"offsetTimeZone": "(GMT+09:30) Australia/Yancowinna"
+	}]
+}, {
+	"name": "Austria",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "AT",
+	"countryCode3": "AUT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Vienna",
+		"offsetTimeZone": "(GMT+01:00) Europe/Vienna"
+	}]
+}, {
+	"name": "Azerbaijan",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "AZ",
+	"countryCode3": "AZE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Baku",
+		"offsetTimeZone": "(GMT+04:00) Asia/Baku"
+	}]
+}, {
+	"name": "Bahamas",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BS",
+	"countryCode3": "BHS",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Nassau",
+		"offsetTimeZone": "(GMT-05:00) America/Nassau"
+	}]
+}, {
+	"name": "Bahrain",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "BH",
+	"countryCode3": "BHR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Bahrain",
+		"offsetTimeZone": "(GMT+03:00) Asia/Bahrain"
+	}]
+}, {
+	"name": "Bangladesh",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "BD",
+	"countryCode3": "BGD",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Dacca",
+		"offsetTimeZone": "(GMT+06:00) Asia/Dacca"
+	}, {
+		"timeZoneId": "Asia/Dhaka",
+		"offsetTimeZone": "(GMT+06:00) Asia/Dhaka"
+	}, {
+		"timeZoneId": "BST",
+		"offsetTimeZone": "(GMT+06:00) BST"
+	}]
+}, {
+	"name": "Barbados",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BB",
+	"countryCode3": "BRB",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Barbados",
+		"offsetTimeZone": "(GMT-04:00) America/Barbados"
+	}]
+}, {
+	"name": "Belarus",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "BY",
+	"countryCode3": "BLR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Minsk",
+		"offsetTimeZone": "(GMT+03:00) Europe/Minsk"
+	}]
+}, {
+	"name": "Belgium",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "BE",
+	"countryCode3": "BEL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Brussels",
+		"offsetTimeZone": "(GMT+01:00) Europe/Brussels"
+	}]
+}, {
+	"name": "Belize",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BZ",
+	"countryCode3": "BLZ",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Belize",
+		"offsetTimeZone": "(GMT-06:00) America/Belize"
+	}]
+}, {
+	"name": "Benin",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "BJ",
+	"countryCode3": "BEN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Porto-Novo",
+		"offsetTimeZone": "(GMT+01:00) Africa/Porto-Novo"
+	}]
+}, {
+	"name": "Bermuda",
+	"region": "Americas",
+	"sub-region": "Northern America",
+	"countryCode": "BM",
+	"countryCode3": "BMU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Bermuda",
+		"offsetTimeZone": "(GMT-04:00) Atlantic/Bermuda"
+	}]
+}, {
+	"name": "Bhutan",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "BT",
+	"countryCode3": "BTN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Thimbu",
+		"offsetTimeZone": "(GMT+06:00) Asia/Thimbu"
+	}, {
+		"timeZoneId": "Asia/Thimphu",
+		"offsetTimeZone": "(GMT+06:00) Asia/Thimphu"
+	}]
+}, {
+	"name": "Bolivia (Plurinational State of)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BO",
+	"countryCode3": "BOL",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/La_Paz",
+		"offsetTimeZone": "(GMT-04:00) America/La_Paz"
+	}]
+}, {
+	"name": "Bonaire, Sint Eustatius and Saba",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BQ",
+	"countryCode3": "BES",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Kralendijk",
+		"offsetTimeZone": "(GMT-04:00) America/Kralendijk"
+	}]
+}, {
+	"name": "Bosnia and Herzegovina",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "BA",
+	"countryCode3": "BIH",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Sarajevo",
+		"offsetTimeZone": "(GMT+01:00) Europe/Sarajevo"
+	}]
+}, {
+	"name": "Botswana",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "BW",
+	"countryCode3": "BWA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Gaborone",
+		"offsetTimeZone": "(GMT+02:00) Africa/Gaborone"
+	}]
+}, {
+	"name": "Bouvet Island",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BV",
+	"countryCode3": "BVT",
+	"timeZoneOffset": []
+}, {
+	"name": "Brazil",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BR",
+	"countryCode3": "BRA",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Araguaina",
+		"offsetTimeZone": "(GMT-03:00) America/Araguaina"
+	}, {
+		"timeZoneId": "America/Bahia",
+		"offsetTimeZone": "(GMT-03:00) America/Bahia"
+	}, {
+		"timeZoneId": "America/Belem",
+		"offsetTimeZone": "(GMT-03:00) America/Belem"
+	}, {
+		"timeZoneId": "America/Boa_Vista",
+		"offsetTimeZone": "(GMT-04:00) America/Boa_Vista"
+	}, {
+		"timeZoneId": "America/Campo_Grande",
+		"offsetTimeZone": "(GMT-04:00) America/Campo_Grande"
+	}, {
+		"timeZoneId": "America/Cuiaba",
+		"offsetTimeZone": "(GMT-04:00) America/Cuiaba"
+	}, {
+		"timeZoneId": "America/Eirunepe",
+		"offsetTimeZone": "(GMT-05:00) America/Eirunepe"
+	}, {
+		"timeZoneId": "America/Fortaleza",
+		"offsetTimeZone": "(GMT-03:00) America/Fortaleza"
+	}, {
+		"timeZoneId": "America/Maceio",
+		"offsetTimeZone": "(GMT-03:00) America/Maceio"
+	}, {
+		"timeZoneId": "America/Manaus",
+		"offsetTimeZone": "(GMT-04:00) America/Manaus"
+	}, {
+		"timeZoneId": "America/Noronha",
+		"offsetTimeZone": "(GMT-02:00) America/Noronha"
+	}, {
+		"timeZoneId": "America/Porto_Acre",
+		"offsetTimeZone": "(GMT-05:00) America/Porto_Acre"
+	}, {
+		"timeZoneId": "America/Porto_Velho",
+		"offsetTimeZone": "(GMT-04:00) America/Porto_Velho"
+	}, {
+		"timeZoneId": "America/Recife",
+		"offsetTimeZone": "(GMT-03:00) America/Recife"
+	}, {
+		"timeZoneId": "America/Rio_Branco",
+		"offsetTimeZone": "(GMT-05:00) America/Rio_Branco"
+	}, {
+		"timeZoneId": "America/Santarem",
+		"offsetTimeZone": "(GMT-03:00) America/Santarem"
+	}, {
+		"timeZoneId": "America/Sao_Paulo",
+		"offsetTimeZone": "(GMT-03:00) America/Sao_Paulo"
+	}, {
+		"timeZoneId": "BET",
+		"offsetTimeZone": "(GMT-03:00) BET"
+	}, {
+		"timeZoneId": "Brazil/Acre",
+		"offsetTimeZone": "(GMT-05:00) Brazil/Acre"
+	}, {
+		"timeZoneId": "Brazil/DeNoronha",
+		"offsetTimeZone": "(GMT-02:00) Brazil/DeNoronha"
+	}, {
+		"timeZoneId": "Brazil/East",
+		"offsetTimeZone": "(GMT-03:00) Brazil/East"
+	}, {
+		"timeZoneId": "Brazil/West",
+		"offsetTimeZone": "(GMT-04:00) Brazil/West"
+	}]
+}, {
+	"name": "British Indian Ocean Territory",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "IO",
+	"countryCode3": "IOT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Chagos",
+		"offsetTimeZone": "(GMT+06:00) Indian/Chagos"
+	}]
+}, {
+	"name": "Brunei Darussalam",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "BN",
+	"countryCode3": "BRN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Brunei",
+		"offsetTimeZone": "(GMT+08:00) Asia/Brunei"
+	}]
+}, {
+	"name": "Bulgaria",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "BG",
+	"countryCode3": "BGR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Sofia",
+		"offsetTimeZone": "(GMT+02:00) Europe/Sofia"
+	}]
+}, {
+	"name": "Burkina Faso",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "BF",
+	"countryCode3": "BFA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Ouagadougou",
+		"offsetTimeZone": "(GMT+00:00) Africa/Ouagadougou"
+	}]
+}, {
+	"name": "Burundi",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "BI",
+	"countryCode3": "BDI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Bujumbura",
+		"offsetTimeZone": "(GMT+02:00) Africa/Bujumbura"
+	}]
+}, {
+	"name": "Cabo Verde",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "CV",
+	"countryCode3": "CPV",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Cape_Verde",
+		"offsetTimeZone": "(GMT-01:00) Atlantic/Cape_Verde"
+	}]
+}, {
+	"name": "Cambodia",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "KH",
+	"countryCode3": "KHM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Phnom_Penh",
+		"offsetTimeZone": "(GMT+07:00) Asia/Phnom_Penh"
+	}]
+}, {
+	"name": "Cameroon",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "CM",
+	"countryCode3": "CMR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Douala",
+		"offsetTimeZone": "(GMT+01:00) Africa/Douala"
+	}]
+}, {
+	"name": "Canada",
+	"region": "Americas",
+	"sub-region": "Northern America",
+	"countryCode": "CA",
+	"countryCode3": "CAN",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Atikokan",
+		"offsetTimeZone": "(GMT-05:00) America/Atikokan"
+	}, {
+		"timeZoneId": "America/Blanc-Sablon",
+		"offsetTimeZone": "(GMT-04:00) America/Blanc-Sablon"
+	}, {
+		"timeZoneId": "America/Cambridge_Bay",
+		"offsetTimeZone": "(GMT-07:00) America/Cambridge_Bay"
+	}, {
+		"timeZoneId": "America/Coral_Harbour",
+		"offsetTimeZone": "(GMT-05:00) America/Coral_Harbour"
+	}, {
+		"timeZoneId": "America/Creston",
+		"offsetTimeZone": "(GMT-07:00) America/Creston"
+	}, {
+		"timeZoneId": "America/Dawson",
+		"offsetTimeZone": "(GMT-08:00) America/Dawson"
+	}, {
+		"timeZoneId": "America/Dawson_Creek",
+		"offsetTimeZone": "(GMT-07:00) America/Dawson_Creek"
+	}, {
+		"timeZoneId": "America/Edmonton",
+		"offsetTimeZone": "(GMT-07:00) America/Edmonton"
+	}, {
+		"timeZoneId": "America/Fort_Nelson",
+		"offsetTimeZone": "(GMT-07:00) America/Fort_Nelson"
+	}, {
+		"timeZoneId": "America/Glace_Bay",
+		"offsetTimeZone": "(GMT-04:00) America/Glace_Bay"
+	}, {
+		"timeZoneId": "America/Goose_Bay",
+		"offsetTimeZone": "(GMT-04:00) America/Goose_Bay"
+	}, {
+		"timeZoneId": "America/Halifax",
+		"offsetTimeZone": "(GMT-04:00) America/Halifax"
+	}, {
+		"timeZoneId": "America/Inuvik",
+		"offsetTimeZone": "(GMT-07:00) America/Inuvik"
+	}, {
+		"timeZoneId": "America/Iqaluit",
+		"offsetTimeZone": "(GMT-05:00) America/Iqaluit"
+	}, {
+		"timeZoneId": "America/Moncton",
+		"offsetTimeZone": "(GMT-04:00) America/Moncton"
+	}, {
+		"timeZoneId": "America/Montreal",
+		"offsetTimeZone": "(GMT-05:00) America/Montreal"
+	}, {
+		"timeZoneId": "America/Nipigon",
+		"offsetTimeZone": "(GMT-05:00) America/Nipigon"
+	}, {
+		"timeZoneId": "America/Pangnirtung",
+		"offsetTimeZone": "(GMT-05:00) America/Pangnirtung"
+	}, {
+		"timeZoneId": "America/Rainy_River",
+		"offsetTimeZone": "(GMT-06:00) America/Rainy_River"
+	}, {
+		"timeZoneId": "America/Rankin_Inlet",
+		"offsetTimeZone": "(GMT-06:00) America/Rankin_Inlet"
+	}, {
+		"timeZoneId": "America/Regina",
+		"offsetTimeZone": "(GMT-06:00) America/Regina"
+	}, {
+		"timeZoneId": "America/Resolute",
+		"offsetTimeZone": "(GMT-06:00) America/Resolute"
+	}, {
+		"timeZoneId": "America/St_Johns",
+		"offsetTimeZone": "(GMT-03:30) America/St_Johns"
+	}, {
+		"timeZoneId": "America/Swift_Current",
+		"offsetTimeZone": "(GMT-06:00) America/Swift_Current"
+	}, {
+		"timeZoneId": "America/Thunder_Bay",
+		"offsetTimeZone": "(GMT-05:00) America/Thunder_Bay"
+	}, {
+		"timeZoneId": "America/Toronto",
+		"offsetTimeZone": "(GMT-05:00) America/Toronto"
+	}, {
+		"timeZoneId": "America/Vancouver",
+		"offsetTimeZone": "(GMT-08:00) America/Vancouver"
+	}, {
+		"timeZoneId": "America/Whitehorse",
+		"offsetTimeZone": "(GMT-08:00) America/Whitehorse"
+	}, {
+		"timeZoneId": "America/Winnipeg",
+		"offsetTimeZone": "(GMT-06:00) America/Winnipeg"
+	}, {
+		"timeZoneId": "America/Yellowknife",
+		"offsetTimeZone": "(GMT-07:00) America/Yellowknife"
+	}, {
+		"timeZoneId": "CNT",
+		"offsetTimeZone": "(GMT-03:30) CNT"
+	}, {
+		"timeZoneId": "Canada/Atlantic",
+		"offsetTimeZone": "(GMT-04:00) Canada/Atlantic"
+	}, {
+		"timeZoneId": "Canada/Central",
+		"offsetTimeZone": "(GMT-06:00) Canada/Central"
+	}, {
+		"timeZoneId": "Canada/East-Saskatchewan",
+		"offsetTimeZone": "(GMT-06:00) Canada/East-Saskatchewan"
+	}, {
+		"timeZoneId": "Canada/Eastern",
+		"offsetTimeZone": "(GMT-05:00) Canada/Eastern"
+	}, {
+		"timeZoneId": "Canada/Mountain",
+		"offsetTimeZone": "(GMT-07:00) Canada/Mountain"
+	}, {
+		"timeZoneId": "Canada/Newfoundland",
+		"offsetTimeZone": "(GMT-03:30) Canada/Newfoundland"
+	}, {
+		"timeZoneId": "Canada/Pacific",
+		"offsetTimeZone": "(GMT-08:00) Canada/Pacific"
+	}, {
+		"timeZoneId": "Canada/Saskatchewan",
+		"offsetTimeZone": "(GMT-06:00) Canada/Saskatchewan"
+	}, {
+		"timeZoneId": "Canada/Yukon",
+		"offsetTimeZone": "(GMT-08:00) Canada/Yukon"
+	}]
+}, {
+	"name": "Cayman Islands",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "KY",
+	"countryCode3": "CYM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Cayman",
+		"offsetTimeZone": "(GMT-05:00) America/Cayman"
+	}]
+}, {
+	"name": "Central African Republic",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "CF",
+	"countryCode3": "CAF",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Bangui",
+		"offsetTimeZone": "(GMT+01:00) Africa/Bangui"
+	}]
+}, {
+	"name": "Chad",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "TD",
+	"countryCode3": "TCD",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Ndjamena",
+		"offsetTimeZone": "(GMT+01:00) Africa/Ndjamena"
+	}]
+}, {
+	"name": "Chile",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "CL",
+	"countryCode3": "CHL",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Punta_Arenas",
+		"offsetTimeZone": "(GMT-03:00) America/Punta_Arenas"
+	}, {
+		"timeZoneId": "America/Santiago",
+		"offsetTimeZone": "(GMT-04:00) America/Santiago"
+	}, {
+		"timeZoneId": "Chile/Continental",
+		"offsetTimeZone": "(GMT-04:00) Chile/Continental"
+	}, {
+		"timeZoneId": "Chile/EasterIsland",
+		"offsetTimeZone": "(GMT-06:00) Chile/EasterIsland"
+	}, {
+		"timeZoneId": "Pacific/Easter",
+		"offsetTimeZone": "(GMT-06:00) Pacific/Easter"
+	}]
+}, {
+	"name": "China",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "CN",
+	"countryCode3": "CHN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Chongqing",
+		"offsetTimeZone": "(GMT+08:00) Asia/Chongqing"
+	}, {
+		"timeZoneId": "Asia/Chungking",
+		"offsetTimeZone": "(GMT+08:00) Asia/Chungking"
+	}, {
+		"timeZoneId": "Asia/Harbin",
+		"offsetTimeZone": "(GMT+08:00) Asia/Harbin"
+	}, {
+		"timeZoneId": "Asia/Kashgar",
+		"offsetTimeZone": "(GMT+06:00) Asia/Kashgar"
+	}, {
+		"timeZoneId": "Asia/Shanghai",
+		"offsetTimeZone": "(GMT+08:00) Asia/Shanghai"
+	}, {
+		"timeZoneId": "Asia/Urumqi",
+		"offsetTimeZone": "(GMT+06:00) Asia/Urumqi"
+	}, {
+		"timeZoneId": "CTT",
+		"offsetTimeZone": "(GMT+08:00) CTT"
+	}, {
+		"timeZoneId": "PRC",
+		"offsetTimeZone": "(GMT+08:00) PRC"
+	}]
+}, {
+	"name": "Christmas Island",
+	"region": "Oceania",
+	"sub-region": "Australia and New Zealand",
+	"countryCode": "CX",
+	"countryCode3": "CXR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Christmas",
+		"offsetTimeZone": "(GMT+07:00) Indian/Christmas"
+	}]
+}, {
+	"name": "Cocos (Keeling) Islands",
+	"region": "Oceania",
+	"sub-region": "Australia and New Zealand",
+	"countryCode": "CC",
+	"countryCode3": "CCK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Cocos",
+		"offsetTimeZone": "(GMT+06:30) Indian/Cocos"
+	}]
+}, {
+	"name": "Colombia",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "CO",
+	"countryCode3": "COL",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Bogota",
+		"offsetTimeZone": "(GMT-05:00) America/Bogota"
+	}]
+}, {
+	"name": "Comoros",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "KM",
+	"countryCode3": "COM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Comoro",
+		"offsetTimeZone": "(GMT+03:00) Indian/Comoro"
+	}]
+}, {
+	"name": "Congo",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "CG",
+	"countryCode3": "COG",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Brazzaville",
+		"offsetTimeZone": "(GMT+01:00) Africa/Brazzaville"
+	}]
+}, {
+	"name": "Congo (Democratic Republic of the)",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "CD",
+	"countryCode3": "COD",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Kinshasa",
+		"offsetTimeZone": "(GMT+01:00) Africa/Kinshasa"
+	}, {
+		"timeZoneId": "Africa/Lubumbashi",
+		"offsetTimeZone": "(GMT+02:00) Africa/Lubumbashi"
+	}]
+}, {
+	"name": "Cook Islands",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "CK",
+	"countryCode3": "COK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Rarotonga",
+		"offsetTimeZone": "(GMT-10:00) Pacific/Rarotonga"
+	}]
+}, {
+	"name": "Costa Rica",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "CR",
+	"countryCode3": "CRI",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Costa_Rica",
+		"offsetTimeZone": "(GMT-06:00) America/Costa_Rica"
+	}]
+}, {
+	"name": "Côte d'Ivoire",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "CI",
+	"countryCode3": "CIV",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Abidjan",
+		"offsetTimeZone": "(GMT+00:00) Africa/Abidjan"
+	}, {
+		"timeZoneId": "Africa/Timbuktu",
+		"offsetTimeZone": "(GMT+00:00) Africa/Timbuktu"
+	}]
+}, {
+	"name": "Croatia",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "HR",
+	"countryCode3": "HRV",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Zagreb",
+		"offsetTimeZone": "(GMT+01:00) Europe/Zagreb"
+	}]
+}, {
+	"name": "Cuba",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "CU",
+	"countryCode3": "CUB",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Havana",
+		"offsetTimeZone": "(GMT-05:00) America/Havana"
+	}, {
+		"timeZoneId": "Cuba",
+		"offsetTimeZone": "(GMT-05:00) Cuba"
+	}]
+}, {
+	"name": "Curaçao",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "CW",
+	"countryCode3": "CUW",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Curacao",
+		"offsetTimeZone": "(GMT-04:00) America/Curacao"
+	}]
+}, {
+	"name": "Cyprus",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "CY",
+	"countryCode3": "CYP",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Famagusta",
+		"offsetTimeZone": "(GMT+02:00) Asia/Famagusta"
+	}, {
+		"timeZoneId": "Asia/Nicosia",
+		"offsetTimeZone": "(GMT+02:00) Asia/Nicosia"
+	}, {
+		"timeZoneId": "Europe/Nicosia",
+		"offsetTimeZone": "(GMT+02:00) Europe/Nicosia"
+	}]
+}, {
+	"name": "Czechia",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "CZ",
+	"countryCode3": "CZE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Prague",
+		"offsetTimeZone": "(GMT+01:00) Europe/Prague"
+	}]
+}, {
+	"name": "Denmark",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "DK",
+	"countryCode3": "DNK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Copenhagen",
+		"offsetTimeZone": "(GMT+01:00) Europe/Copenhagen"
+	}]
+}, {
+	"name": "Djibouti",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "DJ",
+	"countryCode3": "DJI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Djibouti",
+		"offsetTimeZone": "(GMT+03:00) Africa/Djibouti"
+	}]
+}, {
+	"name": "Dominica",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "DM",
+	"countryCode3": "DMA",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Dominica",
+		"offsetTimeZone": "(GMT-04:00) America/Dominica"
+	}]
+}, {
+	"name": "Dominican Republic",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "DO",
+	"countryCode3": "DOM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Santo_Domingo",
+		"offsetTimeZone": "(GMT-04:00) America/Santo_Domingo"
+	}]
+}, {
+	"name": "Ecuador",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "EC",
+	"countryCode3": "ECU",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Guayaquil",
+		"offsetTimeZone": "(GMT-05:00) America/Guayaquil"
+	}, {
+		"timeZoneId": "Pacific/Galapagos",
+		"offsetTimeZone": "(GMT-06:00) Pacific/Galapagos"
+	}]
+}, {
+	"name": "Egypt",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "EG",
+	"countryCode3": "EGY",
+	"timeZoneOffset": [{
+		"timeZoneId": "ART",
+		"offsetTimeZone": "(GMT+02:00) ART"
+	}, {
+		"timeZoneId": "Africa/Cairo",
+		"offsetTimeZone": "(GMT+02:00) Africa/Cairo"
+	}, {
+		"timeZoneId": "Egypt",
+		"offsetTimeZone": "(GMT+02:00) Egypt"
+	}]
+}, {
+	"name": "El Salvador",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "SV",
+	"countryCode3": "SLV",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/El_Salvador",
+		"offsetTimeZone": "(GMT-06:00) America/El_Salvador"
+	}]
+}, {
+	"name": "Equatorial Guinea",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "GQ",
+	"countryCode3": "GNQ",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Malabo",
+		"offsetTimeZone": "(GMT+01:00) Africa/Malabo"
+	}]
+}, {
+	"name": "Eritrea",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ER",
+	"countryCode3": "ERI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Asmara",
+		"offsetTimeZone": "(GMT+03:00) Africa/Asmara"
+	}, {
+		"timeZoneId": "Africa/Asmera",
+		"offsetTimeZone": "(GMT+03:00) Africa/Asmera"
+	}]
+}, {
+	"name": "Estonia",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "EE",
+	"countryCode3": "EST",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Tallinn",
+		"offsetTimeZone": "(GMT+02:00) Europe/Tallinn"
+	}]
+}, {
+	"name": "Ethiopia",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ET",
+	"countryCode3": "ETH",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Addis_Ababa",
+		"offsetTimeZone": "(GMT+03:00) Africa/Addis_Ababa"
+	}]
+}, {
+	"name": "Falkland Islands (Malvinas)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "FK",
+	"countryCode3": "FLK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Stanley",
+		"offsetTimeZone": "(GMT-03:00) Atlantic/Stanley"
+	}]
+}, {
+	"name": "Faroe Islands",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "FO",
+	"countryCode3": "FRO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Faeroe",
+		"offsetTimeZone": "(GMT+00:00) Atlantic/Faeroe"
+	}, {
+		"timeZoneId": "Atlantic/Faroe",
+		"offsetTimeZone": "(GMT+00:00) Atlantic/Faroe"
+	}]
+}, {
+	"name": "Fiji",
+	"region": "Oceania",
+	"sub-region": "Melanesia",
+	"countryCode": "FJ",
+	"countryCode3": "FJI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Fiji",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Fiji"
+	}]
+}, {
+	"name": "Finland",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "FI",
+	"countryCode3": "FIN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Helsinki",
+		"offsetTimeZone": "(GMT+02:00) Europe/Helsinki"
+	}]
+}, {
+	"name": "France",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "FR",
+	"countryCode3": "FRA",
+	"timeZoneOffset": [{
+		"timeZoneId": "ECT",
+		"offsetTimeZone": "(GMT+01:00) ECT"
+	}, {
+		"timeZoneId": "Europe/Paris",
+		"offsetTimeZone": "(GMT+01:00) Europe/Paris"
+	}]
+}, {
+	"name": "French Guiana",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "GF",
+	"countryCode3": "GUF",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Cayenne",
+		"offsetTimeZone": "(GMT-03:00) America/Cayenne"
+	}]
+}, {
+	"name": "French Polynesia",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "PF",
+	"countryCode3": "PYF",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Gambier",
+		"offsetTimeZone": "(GMT-09:00) Pacific/Gambier"
+	}, {
+		"timeZoneId": "Pacific/Marquesas",
+		"offsetTimeZone": "(GMT-09:30) Pacific/Marquesas"
+	}, {
+		"timeZoneId": "Pacific/Tahiti",
+		"offsetTimeZone": "(GMT-10:00) Pacific/Tahiti"
+	}]
+}, {
+	"name": "French Southern Territories",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "TF",
+	"countryCode3": "ATF",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Kerguelen",
+		"offsetTimeZone": "(GMT+05:00) Indian/Kerguelen"
+	}]
+}, {
+	"name": "Gabon",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "GA",
+	"countryCode3": "GAB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Libreville",
+		"offsetTimeZone": "(GMT+01:00) Africa/Libreville"
+	}]
+}, {
+	"name": "Gambia",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "GM",
+	"countryCode3": "GMB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Banjul",
+		"offsetTimeZone": "(GMT+00:00) Africa/Banjul"
+	}]
+}, {
+	"name": "Georgia",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "GE",
+	"countryCode3": "GEO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Tbilisi",
+		"offsetTimeZone": "(GMT+04:00) Asia/Tbilisi"
+	}]
+}, {
+	"name": "Germany",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "DE",
+	"countryCode3": "DEU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Berlin",
+		"offsetTimeZone": "(GMT+01:00) Europe/Berlin"
+	}, {
+		"timeZoneId": "Europe/Busingen",
+		"offsetTimeZone": "(GMT+01:00) Europe/Busingen"
+	}]
+}, {
+	"name": "Ghana",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "GH",
+	"countryCode3": "GHA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Accra",
+		"offsetTimeZone": "(GMT+00:00) Africa/Accra"
+	}]
+}, {
+	"name": "Gibraltar",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "GI",
+	"countryCode3": "GIB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Gibraltar",
+		"offsetTimeZone": "(GMT+01:00) Europe/Gibraltar"
+	}]
+}, {
+	"name": "Greece",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "GR",
+	"countryCode3": "GRC",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Athens",
+		"offsetTimeZone": "(GMT+02:00) Europe/Athens"
+	}]
+}, {
+	"name": "Greenland",
+	"region": "Americas",
+	"sub-region": "Northern America",
+	"countryCode": "GL",
+	"countryCode3": "GRL",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Danmarkshavn",
+		"offsetTimeZone": "(GMT+00:00) America/Danmarkshavn"
+	}, {
+		"timeZoneId": "America/Godthab",
+		"offsetTimeZone": "(GMT-03:00) America/Godthab"
+	}, {
+		"timeZoneId": "America/Scoresbysund",
+		"offsetTimeZone": "(GMT-01:00) America/Scoresbysund"
+	}, {
+		"timeZoneId": "America/Thule",
+		"offsetTimeZone": "(GMT-04:00) America/Thule"
+	}]
+}, {
+	"name": "Grenada",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "GD",
+	"countryCode3": "GRD",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Grenada",
+		"offsetTimeZone": "(GMT-04:00) America/Grenada"
+	}]
+}, {
+	"name": "Guadeloupe",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "GP",
+	"countryCode3": "GLP",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Guadeloupe",
+		"offsetTimeZone": "(GMT-04:00) America/Guadeloupe"
+	}]
+}, {
+	"name": "Guam",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "GU",
+	"countryCode3": "GUM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Guam",
+		"offsetTimeZone": "(GMT+10:00) Pacific/Guam"
+	}]
+}, {
+	"name": "Guatemala",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "GT",
+	"countryCode3": "GTM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Guatemala",
+		"offsetTimeZone": "(GMT-06:00) America/Guatemala"
+	}]
+}, {
+	"name": "Guernsey",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "GG",
+	"countryCode3": "GGY",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Guernsey",
+		"offsetTimeZone": "(GMT+00:00) Europe/Guernsey"
+	}]
+}, {
+	"name": "Guinea",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "GN",
+	"countryCode3": "GIN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Conakry",
+		"offsetTimeZone": "(GMT+00:00) Africa/Conakry"
+	}]
+}, {
+	"name": "Guinea-Bissau",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "GW",
+	"countryCode3": "GNB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Bissau",
+		"offsetTimeZone": "(GMT+00:00) Africa/Bissau"
+	}]
+}, {
+	"name": "Guyana",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "GY",
+	"countryCode3": "GUY",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Guyana",
+		"offsetTimeZone": "(GMT-04:00) America/Guyana"
+	}]
+}, {
+	"name": "Haiti",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "HT",
+	"countryCode3": "HTI",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Port-au-Prince",
+		"offsetTimeZone": "(GMT-05:00) America/Port-au-Prince"
+	}]
+}, {
+	"name": "Heard Island and McDonald Islands",
+	"region": "Oceania",
+	"sub-region": "Australia and New Zealand",
+	"countryCode": "HM",
+	"countryCode3": "HMD",
+	"timeZoneOffset": []
+}, {
+	"name": "Holy See",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "VA",
+	"countryCode3": "VAT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Vatican",
+		"offsetTimeZone": "(GMT+01:00) Europe/Vatican"
+	}]
+}, {
+	"name": "Honduras",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "HN",
+	"countryCode3": "HND",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Tegucigalpa",
+		"offsetTimeZone": "(GMT-06:00) America/Tegucigalpa"
+	}]
+}, {
+	"name": "Hong Kong",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "HK",
+	"countryCode3": "HKG",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Hong_Kong",
+		"offsetTimeZone": "(GMT+08:00) Asia/Hong_Kong"
+	}, {
+		"timeZoneId": "Hongkong",
+		"offsetTimeZone": "(GMT+08:00) Hongkong"
+	}]
+}, {
+	"name": "Hungary",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "HU",
+	"countryCode3": "HUN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Budapest",
+		"offsetTimeZone": "(GMT+01:00) Europe/Budapest"
+	}]
+}, {
+	"name": "Iceland",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "IS",
+	"countryCode3": "ISL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Reykjavik",
+		"offsetTimeZone": "(GMT+00:00) Atlantic/Reykjavik"
+	}, {
+		"timeZoneId": "Iceland",
+		"offsetTimeZone": "(GMT+00:00) Iceland"
+	}]
+}, {
+	"name": "India",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "IN",
+	"countryCode3": "IND",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Calcutta",
+		"offsetTimeZone": "(GMT+05:30) Asia/Calcutta"
+	}, {
+		"timeZoneId": "Asia/Kolkata",
+		"offsetTimeZone": "(GMT+05:30) Asia/Kolkata"
+	}, {
+		"timeZoneId": "IST",
+		"offsetTimeZone": "(GMT+05:30) IST"
+	}]
+}, {
+	"name": "Indonesia",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "ID",
+	"countryCode3": "IDN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Jakarta",
+		"offsetTimeZone": "(GMT+07:00) Asia/Jakarta"
+	}, {
+		"timeZoneId": "Asia/Jayapura",
+		"offsetTimeZone": "(GMT+09:00) Asia/Jayapura"
+	}, {
+		"timeZoneId": "Asia/Makassar",
+		"offsetTimeZone": "(GMT+08:00) Asia/Makassar"
+	}, {
+		"timeZoneId": "Asia/Pontianak",
+		"offsetTimeZone": "(GMT+07:00) Asia/Pontianak"
+	}, {
+		"timeZoneId": "Asia/Ujung_Pandang",
+		"offsetTimeZone": "(GMT+08:00) Asia/Ujung_Pandang"
+	}]
+}, {
+	"name": "Iran (Islamic Republic of)",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "IR",
+	"countryCode3": "IRN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Tehran",
+		"offsetTimeZone": "(GMT+03:30) Asia/Tehran"
+	}, {
+		"timeZoneId": "Iran",
+		"offsetTimeZone": "(GMT+03:30) Iran"
+	}]
+}, {
+	"name": "Iraq",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "IQ",
+	"countryCode3": "IRQ",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Baghdad",
+		"offsetTimeZone": "(GMT+03:00) Asia/Baghdad"
+	}]
+}, {
+	"name": "Ireland",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "IE",
+	"countryCode3": "IRL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Eire",
+		"offsetTimeZone": "(GMT+00:00) Eire"
+	}, {
+		"timeZoneId": "Europe/Dublin",
+		"offsetTimeZone": "(GMT+00:00) Europe/Dublin"
+	}]
+}, {
+	"name": "Isle of Man",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "IM",
+	"countryCode3": "IMN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Isle_of_Man",
+		"offsetTimeZone": "(GMT+00:00) Europe/Isle_of_Man"
+	}]
+}, {
+	"name": "Israel",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "IL",
+	"countryCode3": "ISR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Jerusalem",
+		"offsetTimeZone": "(GMT+02:00) Asia/Jerusalem"
+	}, {
+		"timeZoneId": "Asia/Tel_Aviv",
+		"offsetTimeZone": "(GMT+02:00) Asia/Tel_Aviv"
+	}, {
+		"timeZoneId": "Israel",
+		"offsetTimeZone": "(GMT+02:00) Israel"
+	}]
+}, {
+	"name": "Italy",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "IT",
+	"countryCode3": "ITA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Rome",
+		"offsetTimeZone": "(GMT+01:00) Europe/Rome"
+	}]
+}, {
+	"name": "Jamaica",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "JM",
+	"countryCode3": "JAM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Jamaica",
+		"offsetTimeZone": "(GMT-05:00) America/Jamaica"
+	}, {
+		"timeZoneId": "Jamaica",
+		"offsetTimeZone": "(GMT-05:00) Jamaica"
+	}]
+}, {
+	"name": "Japan",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "JP",
+	"countryCode3": "JPN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Tokyo",
+		"offsetTimeZone": "(GMT+09:00) Asia/Tokyo"
+	}, {
+		"timeZoneId": "JST",
+		"offsetTimeZone": "(GMT+09:00) JST"
+	}, {
+		"timeZoneId": "Japan",
+		"offsetTimeZone": "(GMT+09:00) Japan"
+	}]
+}, {
+	"name": "Jersey",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "JE",
+	"countryCode3": "JEY",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Jersey",
+		"offsetTimeZone": "(GMT+00:00) Europe/Jersey"
+	}]
+}, {
+	"name": "Jordan",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "JO",
+	"countryCode3": "JOR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Amman",
+		"offsetTimeZone": "(GMT+02:00) Asia/Amman"
+	}]
+}, {
+	"name": "Kazakhstan",
+	"region": "Asia",
+	"sub-region": "Central Asia",
+	"countryCode": "KZ",
+	"countryCode3": "KAZ",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Almaty",
+		"offsetTimeZone": "(GMT+06:00) Asia/Almaty"
+	}, {
+		"timeZoneId": "Asia/Aqtau",
+		"offsetTimeZone": "(GMT+05:00) Asia/Aqtau"
+	}, {
+		"timeZoneId": "Asia/Aqtobe",
+		"offsetTimeZone": "(GMT+05:00) Asia/Aqtobe"
+	}, {
+		"timeZoneId": "Asia/Atyrau",
+		"offsetTimeZone": "(GMT+05:00) Asia/Atyrau"
+	}, {
+		"timeZoneId": "Asia/Oral",
+		"offsetTimeZone": "(GMT+05:00) Asia/Oral"
+	}, {
+		"timeZoneId": "Asia/Qyzylorda",
+		"offsetTimeZone": "(GMT+06:00) Asia/Qyzylorda"
+	}]
+}, {
+	"name": "Kenya",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "KE",
+	"countryCode3": "KEN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Nairobi",
+		"offsetTimeZone": "(GMT+03:00) Africa/Nairobi"
+	}, {
+		"timeZoneId": "EAT",
+		"offsetTimeZone": "(GMT+03:00) EAT"
+	}]
+}, {
+	"name": "Kiribati",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "KI",
+	"countryCode3": "KIR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Enderbury",
+		"offsetTimeZone": "(GMT+13:00) Pacific/Enderbury"
+	}, {
+		"timeZoneId": "Pacific/Kiritimati",
+		"offsetTimeZone": "(GMT+14:00) Pacific/Kiritimati"
+	}, {
+		"timeZoneId": "Pacific/Tarawa",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Tarawa"
+	}]
+}, {
+	"name": "Korea (Democratic People's Republic of)",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "KP",
+	"countryCode3": "PRK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Pyongyang",
+		"offsetTimeZone": "(GMT+08:30) Asia/Pyongyang"
+	}]
+}, {
+	"name": "Korea (Republic of)",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "KR",
+	"countryCode3": "KOR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Seoul",
+		"offsetTimeZone": "(GMT+09:00) Asia/Seoul"
+	}, {
+		"timeZoneId": "ROK",
+		"offsetTimeZone": "(GMT+09:00) ROK"
+	}]
+}, {
+	"name": "Kuwait",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "KW",
+	"countryCode3": "KWT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Kuwait",
+		"offsetTimeZone": "(GMT+03:00) Asia/Kuwait"
+	}]
+}, {
+	"name": "Kyrgyzstan",
+	"region": "Asia",
+	"sub-region": "Central Asia",
+	"countryCode": "KG",
+	"countryCode3": "KGZ",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Bishkek",
+		"offsetTimeZone": "(GMT+06:00) Asia/Bishkek"
+	}]
+}, {
+	"name": "Lao People's Democratic Republic",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "LA",
+	"countryCode3": "LAO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Vientiane",
+		"offsetTimeZone": "(GMT+07:00) Asia/Vientiane"
+	}]
+}, {
+	"name": "Latvia",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "LV",
+	"countryCode3": "LVA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Riga",
+		"offsetTimeZone": "(GMT+02:00) Europe/Riga"
+	}]
+}, {
+	"name": "Lebanon",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "LB",
+	"countryCode3": "LBN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Beirut",
+		"offsetTimeZone": "(GMT+02:00) Asia/Beirut"
+	}]
+}, {
+	"name": "Lesotho",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "LS",
+	"countryCode3": "LSO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Maseru",
+		"offsetTimeZone": "(GMT+02:00) Africa/Maseru"
+	}]
+}, {
+	"name": "Liberia",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "LR",
+	"countryCode3": "LBR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Monrovia",
+		"offsetTimeZone": "(GMT+00:00) Africa/Monrovia"
+	}]
+}, {
+	"name": "Libya",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "LY",
+	"countryCode3": "LBY",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Tripoli",
+		"offsetTimeZone": "(GMT+02:00) Africa/Tripoli"
+	}, {
+		"timeZoneId": "Libya",
+		"offsetTimeZone": "(GMT+02:00) Libya"
+	}]
+}, {
+	"name": "Liechtenstein",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "LI",
+	"countryCode3": "LIE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Vaduz",
+		"offsetTimeZone": "(GMT+01:00) Europe/Vaduz"
+	}]
+}, {
+	"name": "Lithuania",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "LT",
+	"countryCode3": "LTU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Vilnius",
+		"offsetTimeZone": "(GMT+02:00) Europe/Vilnius"
+	}]
+}, {
+	"name": "Luxembourg",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "LU",
+	"countryCode3": "LUX",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Luxembourg",
+		"offsetTimeZone": "(GMT+01:00) Europe/Luxembourg"
+	}]
+}, {
+	"name": "Macao",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "MO",
+	"countryCode3": "MAC",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Macao",
+		"offsetTimeZone": "(GMT+08:00) Asia/Macao"
+	}, {
+		"timeZoneId": "Asia/Macau",
+		"offsetTimeZone": "(GMT+08:00) Asia/Macau"
+	}]
+}, {
+	"name": "Macedonia (the former Yugoslav Republic of)",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "MK",
+	"countryCode3": "MKD",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Skopje",
+		"offsetTimeZone": "(GMT+01:00) Europe/Skopje"
+	}]
+}, {
+	"name": "Madagascar",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "MG",
+	"countryCode3": "MDG",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Antananarivo",
+		"offsetTimeZone": "(GMT+03:00) Indian/Antananarivo"
+	}]
+}, {
+	"name": "Malawi",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "MW",
+	"countryCode3": "MWI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Blantyre",
+		"offsetTimeZone": "(GMT+02:00) Africa/Blantyre"
+	}]
+}, {
+	"name": "Malaysia",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "MY",
+	"countryCode3": "MYS",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Kuala_Lumpur",
+		"offsetTimeZone": "(GMT+08:00) Asia/Kuala_Lumpur"
+	}, {
+		"timeZoneId": "Asia/Kuching",
+		"offsetTimeZone": "(GMT+08:00) Asia/Kuching"
+	}]
+}, {
+	"name": "Maldives",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "MV",
+	"countryCode3": "MDV",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Maldives",
+		"offsetTimeZone": "(GMT+05:00) Indian/Maldives"
+	}]
+}, {
+	"name": "Mali",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ML",
+	"countryCode3": "MLI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Bamako",
+		"offsetTimeZone": "(GMT+00:00) Africa/Bamako"
+	}]
+}, {
+	"name": "Malta",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "MT",
+	"countryCode3": "MLT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Malta",
+		"offsetTimeZone": "(GMT+01:00) Europe/Malta"
+	}]
+}, {
+	"name": "Marshall Islands",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "MH",
+	"countryCode3": "MHL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Kwajalein",
+		"offsetTimeZone": "(GMT+12:00) Kwajalein"
+	}, {
+		"timeZoneId": "Pacific/Kwajalein",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Kwajalein"
+	}, {
+		"timeZoneId": "Pacific/Majuro",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Majuro"
+	}]
+}, {
+	"name": "Martinique",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "MQ",
+	"countryCode3": "MTQ",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Martinique",
+		"offsetTimeZone": "(GMT-04:00) America/Martinique"
+	}]
+}, {
+	"name": "Mauritania",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "MR",
+	"countryCode3": "MRT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Nouakchott",
+		"offsetTimeZone": "(GMT+00:00) Africa/Nouakchott"
+	}]
+}, {
+	"name": "Mauritius",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "MU",
+	"countryCode3": "MUS",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Mauritius",
+		"offsetTimeZone": "(GMT+04:00) Indian/Mauritius"
+	}]
+}, {
+	"name": "Mayotte",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "YT",
+	"countryCode3": "MYT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Mayotte",
+		"offsetTimeZone": "(GMT+03:00) Indian/Mayotte"
+	}]
+}, {
+	"name": "Mexico",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "MX",
+	"countryCode3": "MEX",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Bahia_Banderas",
+		"offsetTimeZone": "(GMT-06:00) America/Bahia_Banderas"
+	}, {
+		"timeZoneId": "America/Cancun",
+		"offsetTimeZone": "(GMT-05:00) America/Cancun"
+	}, {
+		"timeZoneId": "America/Chihuahua",
+		"offsetTimeZone": "(GMT-07:00) America/Chihuahua"
+	}, {
+		"timeZoneId": "America/Ensenada",
+		"offsetTimeZone": "(GMT-08:00) America/Ensenada"
+	}, {
+		"timeZoneId": "America/Hermosillo",
+		"offsetTimeZone": "(GMT-07:00) America/Hermosillo"
+	}, {
+		"timeZoneId": "America/Matamoros",
+		"offsetTimeZone": "(GMT-06:00) America/Matamoros"
+	}, {
+		"timeZoneId": "America/Mazatlan",
+		"offsetTimeZone": "(GMT-07:00) America/Mazatlan"
+	}, {
+		"timeZoneId": "America/Merida",
+		"offsetTimeZone": "(GMT-06:00) America/Merida"
+	}, {
+		"timeZoneId": "America/Mexico_City",
+		"offsetTimeZone": "(GMT-06:00) America/Mexico_City"
+	}, {
+		"timeZoneId": "America/Monterrey",
+		"offsetTimeZone": "(GMT-06:00) America/Monterrey"
+	}, {
+		"timeZoneId": "America/Ojinaga",
+		"offsetTimeZone": "(GMT-07:00) America/Ojinaga"
+	}, {
+		"timeZoneId": "America/Santa_Isabel",
+		"offsetTimeZone": "(GMT-08:00) America/Santa_Isabel"
+	}, {
+		"timeZoneId": "America/Tijuana",
+		"offsetTimeZone": "(GMT-08:00) America/Tijuana"
+	}, {
+		"timeZoneId": "Mexico/BajaNorte",
+		"offsetTimeZone": "(GMT-08:00) Mexico/BajaNorte"
+	}, {
+		"timeZoneId": "Mexico/BajaSur",
+		"offsetTimeZone": "(GMT-07:00) Mexico/BajaSur"
+	}, {
+		"timeZoneId": "Mexico/General",
+		"offsetTimeZone": "(GMT-06:00) Mexico/General"
+	}]
+}, {
+	"name": "Micronesia (Federated States of)",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "FM",
+	"countryCode3": "FSM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Chuuk",
+		"offsetTimeZone": "(GMT+10:00) Pacific/Chuuk"
+	}, {
+		"timeZoneId": "Pacific/Kosrae",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Kosrae"
+	}, {
+		"timeZoneId": "Pacific/Pohnpei",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Pohnpei"
+	}, {
+		"timeZoneId": "Pacific/Ponape",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Ponape"
+	}, {
+		"timeZoneId": "Pacific/Truk",
+		"offsetTimeZone": "(GMT+10:00) Pacific/Truk"
+	}, {
+		"timeZoneId": "Pacific/Yap",
+		"offsetTimeZone": "(GMT+10:00) Pacific/Yap"
+	}]
+}, {
+	"name": "Moldova (Republic of)",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "MD",
+	"countryCode3": "MDA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Chisinau",
+		"offsetTimeZone": "(GMT+02:00) Europe/Chisinau"
+	}, {
+		"timeZoneId": "Europe/Tiraspol",
+		"offsetTimeZone": "(GMT+02:00) Europe/Tiraspol"
+	}]
+}, {
+	"name": "Monaco",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "MC",
+	"countryCode3": "MCO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Monaco",
+		"offsetTimeZone": "(GMT+01:00) Europe/Monaco"
+	}]
+}, {
+	"name": "Mongolia",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "MN",
+	"countryCode3": "MNG",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Choibalsan",
+		"offsetTimeZone": "(GMT+08:00) Asia/Choibalsan"
+	}, {
+		"timeZoneId": "Asia/Hovd",
+		"offsetTimeZone": "(GMT+07:00) Asia/Hovd"
+	}, {
+		"timeZoneId": "Asia/Ulaanbaatar",
+		"offsetTimeZone": "(GMT+08:00) Asia/Ulaanbaatar"
+	}, {
+		"timeZoneId": "Asia/Ulan_Bator",
+		"offsetTimeZone": "(GMT+08:00) Asia/Ulan_Bator"
+	}]
+}, {
+	"name": "Montenegro",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "ME",
+	"countryCode3": "MNE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Podgorica",
+		"offsetTimeZone": "(GMT+01:00) Europe/Podgorica"
+	}]
+}, {
+	"name": "Montserrat",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "MS",
+	"countryCode3": "MSR",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Montserrat",
+		"offsetTimeZone": "(GMT-04:00) America/Montserrat"
+	}]
+}, {
+	"name": "Morocco",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "MA",
+	"countryCode3": "MAR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Casablanca",
+		"offsetTimeZone": "(GMT+00:00) Africa/Casablanca"
+	}]
+}, {
+	"name": "Mozambique",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "MZ",
+	"countryCode3": "MOZ",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Maputo",
+		"offsetTimeZone": "(GMT+02:00) Africa/Maputo"
+	}, {
+		"timeZoneId": "CAT",
+		"offsetTimeZone": "(GMT+02:00) CAT"
+	}]
+}, {
+	"name": "Myanmar",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "MM",
+	"countryCode3": "MMR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Rangoon",
+		"offsetTimeZone": "(GMT+06:30) Asia/Rangoon"
+	}, {
+		"timeZoneId": "Asia/Yangon",
+		"offsetTimeZone": "(GMT+06:30) Asia/Yangon"
+	}]
+}, {
+	"name": "Namibia",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "NA",
+	"countryCode3": "NAM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Windhoek",
+		"offsetTimeZone": "(GMT+02:00) Africa/Windhoek"
+	}]
+}, {
+	"name": "Nauru",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "NR",
+	"countryCode3": "NRU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Nauru",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Nauru"
+	}]
+}, {
+	"name": "Nepal",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "NP",
+	"countryCode3": "NPL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Kathmandu",
+		"offsetTimeZone": "(GMT+05:45) Asia/Kathmandu"
+	}, {
+		"timeZoneId": "Asia/Katmandu",
+		"offsetTimeZone": "(GMT+05:45) Asia/Katmandu"
+	}]
+}, {
+	"name": "Netherlands",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "NL",
+	"countryCode3": "NLD",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Amsterdam",
+		"offsetTimeZone": "(GMT+01:00) Europe/Amsterdam"
+	}]
+}, {
+	"name": "New Caledonia",
+	"region": "Oceania",
+	"sub-region": "Melanesia",
+	"countryCode": "NC",
+	"countryCode3": "NCL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Noumea",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Noumea"
+	}]
+}, {
+	"name": "New Zealand",
+	"region": "Oceania",
+	"sub-region": "Australia and New Zealand",
+	"countryCode": "NZ",
+	"countryCode3": "NZL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Antarctica/South_Pole",
+		"offsetTimeZone": "(GMT+12:00) Antarctica/South_Pole"
+	}, {
+		"timeZoneId": "NST",
+		"offsetTimeZone": "(GMT+12:00) NST"
+	}, {
+		"timeZoneId": "NZ",
+		"offsetTimeZone": "(GMT+12:00) NZ"
+	}, {
+		"timeZoneId": "NZ-CHAT",
+		"offsetTimeZone": "(GMT+12:45) NZ-CHAT"
+	}, {
+		"timeZoneId": "Pacific/Auckland",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Auckland"
+	}, {
+		"timeZoneId": "Pacific/Chatham",
+		"offsetTimeZone": "(GMT+12:45) Pacific/Chatham"
+	}]
+}, {
+	"name": "Nicaragua",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "NI",
+	"countryCode3": "NIC",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Managua",
+		"offsetTimeZone": "(GMT-06:00) America/Managua"
+	}]
+}, {
+	"name": "Niger",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "NE",
+	"countryCode3": "NER",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Niamey",
+		"offsetTimeZone": "(GMT+01:00) Africa/Niamey"
+	}]
+}, {
+	"name": "Nigeria",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "NG",
+	"countryCode3": "NGA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Lagos",
+		"offsetTimeZone": "(GMT+01:00) Africa/Lagos"
+	}]
+}, {
+	"name": "Niue",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "NU",
+	"countryCode3": "NIU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Niue",
+		"offsetTimeZone": "(GMT-11:00) Pacific/Niue"
+	}]
+}, {
+	"name": "Norfolk Island",
+	"region": "Oceania",
+	"sub-region": "Australia and New Zealand",
+	"countryCode": "NF",
+	"countryCode3": "NFK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Norfolk",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Norfolk"
+	}]
+}, {
+	"name": "Northern Mariana Islands",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "MP",
+	"countryCode3": "MNP",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Saipan",
+		"offsetTimeZone": "(GMT+10:00) Pacific/Saipan"
+	}]
+}, {
+	"name": "Norway",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "NO",
+	"countryCode3": "NOR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Jan_Mayen",
+		"offsetTimeZone": "(GMT+01:00) Atlantic/Jan_Mayen"
+	}, {
+		"timeZoneId": "Europe/Oslo",
+		"offsetTimeZone": "(GMT+01:00) Europe/Oslo"
+	}]
+}, {
+	"name": "Oman",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "OM",
+	"countryCode3": "OMN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Muscat",
+		"offsetTimeZone": "(GMT+04:00) Asia/Muscat"
+	}]
+}, {
+	"name": "Pakistan",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "PK",
+	"countryCode3": "PAK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Karachi",
+		"offsetTimeZone": "(GMT+05:00) Asia/Karachi"
+	}, {
+		"timeZoneId": "PLT",
+		"offsetTimeZone": "(GMT+05:00) PLT"
+	}]
+}, {
+	"name": "Palau",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "PW",
+	"countryCode3": "PLW",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Palau",
+		"offsetTimeZone": "(GMT+09:00) Pacific/Palau"
+	}]
+}, {
+	"name": "Palestine, State of",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "PS",
+	"countryCode3": "PSE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Gaza",
+		"offsetTimeZone": "(GMT+02:00) Asia/Gaza"
+	}, {
+		"timeZoneId": "Asia/Hebron",
+		"offsetTimeZone": "(GMT+02:00) Asia/Hebron"
+	}]
+}, {
+	"name": "Panama",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "PA",
+	"countryCode3": "PAN",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Panama",
+		"offsetTimeZone": "(GMT-05:00) America/Panama"
+	}]
+}, {
+	"name": "Papua New Guinea",
+	"region": "Oceania",
+	"sub-region": "Melanesia",
+	"countryCode": "PG",
+	"countryCode3": "PNG",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Bougainville",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Bougainville"
+	}, {
+		"timeZoneId": "Pacific/Port_Moresby",
+		"offsetTimeZone": "(GMT+10:00) Pacific/Port_Moresby"
+	}]
+}, {
+	"name": "Paraguay",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "PY",
+	"countryCode3": "PRY",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Asuncion",
+		"offsetTimeZone": "(GMT-04:00) America/Asuncion"
+	}]
+}, {
+	"name": "Peru",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "PE",
+	"countryCode3": "PER",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Lima",
+		"offsetTimeZone": "(GMT-05:00) America/Lima"
+	}]
+}, {
+	"name": "Philippines",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "PH",
+	"countryCode3": "PHL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Manila",
+		"offsetTimeZone": "(GMT+08:00) Asia/Manila"
+	}]
+}, {
+	"name": "Pitcairn",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "PN",
+	"countryCode3": "PCN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Pitcairn",
+		"offsetTimeZone": "(GMT-08:00) Pacific/Pitcairn"
+	}]
+}, {
+	"name": "Poland",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "PL",
+	"countryCode3": "POL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Warsaw",
+		"offsetTimeZone": "(GMT+01:00) Europe/Warsaw"
+	}, {
+		"timeZoneId": "Poland",
+		"offsetTimeZone": "(GMT+01:00) Poland"
+	}]
+}, {
+	"name": "Portugal",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "PT",
+	"countryCode3": "PRT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/Azores",
+		"offsetTimeZone": "(GMT-01:00) Atlantic/Azores"
+	}, {
+		"timeZoneId": "Atlantic/Madeira",
+		"offsetTimeZone": "(GMT+00:00) Atlantic/Madeira"
+	}, {
+		"timeZoneId": "Europe/Lisbon",
+		"offsetTimeZone": "(GMT+00:00) Europe/Lisbon"
+	}, {
+		"timeZoneId": "Portugal",
+		"offsetTimeZone": "(GMT+00:00) Portugal"
+	}]
+}, {
+	"name": "Puerto Rico",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "PR",
+	"countryCode3": "PRI",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Puerto_Rico",
+		"offsetTimeZone": "(GMT-04:00) America/Puerto_Rico"
+	}, {
+		"timeZoneId": "PRT",
+		"offsetTimeZone": "(GMT-04:00) PRT"
+	}]
+}, {
+	"name": "Qatar",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "QA",
+	"countryCode3": "QAT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Qatar",
+		"offsetTimeZone": "(GMT+03:00) Asia/Qatar"
+	}]
+}, {
+	"name": "Réunion",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "RE",
+	"countryCode3": "REU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Reunion",
+		"offsetTimeZone": "(GMT+04:00) Indian/Reunion"
+	}]
+}, {
+	"name": "Romania",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "RO",
+	"countryCode3": "ROU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Bucharest",
+		"offsetTimeZone": "(GMT+02:00) Europe/Bucharest"
+	}]
+}, {
+	"name": "Russian Federation",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "RU",
+	"countryCode3": "RUS",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Anadyr",
+		"offsetTimeZone": "(GMT+12:00) Asia/Anadyr"
+	}, {
+		"timeZoneId": "Asia/Barnaul",
+		"offsetTimeZone": "(GMT+07:00) Asia/Barnaul"
+	}, {
+		"timeZoneId": "Asia/Chita",
+		"offsetTimeZone": "(GMT+09:00) Asia/Chita"
+	}, {
+		"timeZoneId": "Asia/Irkutsk",
+		"offsetTimeZone": "(GMT+08:00) Asia/Irkutsk"
+	}, {
+		"timeZoneId": "Asia/Kamchatka",
+		"offsetTimeZone": "(GMT+12:00) Asia/Kamchatka"
+	}, {
+		"timeZoneId": "Asia/Khandyga",
+		"offsetTimeZone": "(GMT+09:00) Asia/Khandyga"
+	}, {
+		"timeZoneId": "Asia/Krasnoyarsk",
+		"offsetTimeZone": "(GMT+07:00) Asia/Krasnoyarsk"
+	}, {
+		"timeZoneId": "Asia/Magadan",
+		"offsetTimeZone": "(GMT+11:00) Asia/Magadan"
+	}, {
+		"timeZoneId": "Asia/Novokuznetsk",
+		"offsetTimeZone": "(GMT+07:00) Asia/Novokuznetsk"
+	}, {
+		"timeZoneId": "Asia/Novosibirsk",
+		"offsetTimeZone": "(GMT+07:00) Asia/Novosibirsk"
+	}, {
+		"timeZoneId": "Asia/Omsk",
+		"offsetTimeZone": "(GMT+06:00) Asia/Omsk"
+	}, {
+		"timeZoneId": "Asia/Sakhalin",
+		"offsetTimeZone": "(GMT+11:00) Asia/Sakhalin"
+	}, {
+		"timeZoneId": "Asia/Srednekolymsk",
+		"offsetTimeZone": "(GMT+11:00) Asia/Srednekolymsk"
+	}, {
+		"timeZoneId": "Asia/Tomsk",
+		"offsetTimeZone": "(GMT+07:00) Asia/Tomsk"
+	}, {
+		"timeZoneId": "Asia/Ust-Nera",
+		"offsetTimeZone": "(GMT+10:00) Asia/Ust-Nera"
+	}, {
+		"timeZoneId": "Asia/Vladivostok",
+		"offsetTimeZone": "(GMT+10:00) Asia/Vladivostok"
+	}, {
+		"timeZoneId": "Asia/Yakutsk",
+		"offsetTimeZone": "(GMT+09:00) Asia/Yakutsk"
+	}, {
+		"timeZoneId": "Asia/Yekaterinburg",
+		"offsetTimeZone": "(GMT+05:00) Asia/Yekaterinburg"
+	}, {
+		"timeZoneId": "Europe/Astrakhan",
+		"offsetTimeZone": "(GMT+04:00) Europe/Astrakhan"
+	}, {
+		"timeZoneId": "Europe/Kaliningrad",
+		"offsetTimeZone": "(GMT+02:00) Europe/Kaliningrad"
+	}, {
+		"timeZoneId": "Europe/Kirov",
+		"offsetTimeZone": "(GMT+03:00) Europe/Kirov"
+	}, {
+		"timeZoneId": "Europe/Moscow",
+		"offsetTimeZone": "(GMT+03:00) Europe/Moscow"
+	}, {
+		"timeZoneId": "Europe/Samara",
+		"offsetTimeZone": "(GMT+04:00) Europe/Samara"
+	}, {
+		"timeZoneId": "Europe/Saratov",
+		"offsetTimeZone": "(GMT+04:00) Europe/Saratov"
+	}, {
+		"timeZoneId": "Europe/Ulyanovsk",
+		"offsetTimeZone": "(GMT+04:00) Europe/Ulyanovsk"
+	}, {
+		"timeZoneId": "Europe/Volgograd",
+		"offsetTimeZone": "(GMT+03:00) Europe/Volgograd"
+	}, {
+		"timeZoneId": "W-SU",
+		"offsetTimeZone": "(GMT+03:00) W-SU"
+	}]
+}, {
+	"name": "Rwanda",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "RW",
+	"countryCode3": "RWA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Kigali",
+		"offsetTimeZone": "(GMT+02:00) Africa/Kigali"
+	}]
+}, {
+	"name": "Saint Barthélemy",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "BL",
+	"countryCode3": "BLM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/St_Barthelemy",
+		"offsetTimeZone": "(GMT-04:00) America/St_Barthelemy"
+	}]
+}, {
+	"name": "Saint Helena, Ascension and Tristan da Cunha",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SH",
+	"countryCode3": "SHN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/St_Helena",
+		"offsetTimeZone": "(GMT+00:00) Atlantic/St_Helena"
+	}]
+}, {
+	"name": "Saint Kitts and Nevis",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "KN",
+	"countryCode3": "KNA",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/St_Kitts",
+		"offsetTimeZone": "(GMT-04:00) America/St_Kitts"
+	}]
+}, {
+	"name": "Saint Lucia",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "LC",
+	"countryCode3": "LCA",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/St_Lucia",
+		"offsetTimeZone": "(GMT-04:00) America/St_Lucia"
+	}]
+}, {
+	"name": "Saint Martin (French part)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "MF",
+	"countryCode3": "MAF",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Marigot",
+		"offsetTimeZone": "(GMT-04:00) America/Marigot"
+	}]
+}, {
+	"name": "Saint Pierre and Miquelon",
+	"region": "Americas",
+	"sub-region": "Northern America",
+	"countryCode": "PM",
+	"countryCode3": "SPM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Miquelon",
+		"offsetTimeZone": "(GMT-03:00) America/Miquelon"
+	}]
+}, {
+	"name": "Saint Vincent and the Grenadines",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "VC",
+	"countryCode3": "VCT",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/St_Vincent",
+		"offsetTimeZone": "(GMT-04:00) America/St_Vincent"
+	}]
+}, {
+	"name": "Samoa",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "WS",
+	"countryCode3": "WSM",
+	"timeZoneOffset": [{
+		"timeZoneId": "MIT",
+		"offsetTimeZone": "(GMT+13:00) MIT"
+	}, {
+		"timeZoneId": "Pacific/Apia",
+		"offsetTimeZone": "(GMT+13:00) Pacific/Apia"
+	}]
+}, {
+	"name": "San Marino",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "SM",
+	"countryCode3": "SMR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/San_Marino",
+		"offsetTimeZone": "(GMT+01:00) Europe/San_Marino"
+	}]
+}, {
+	"name": "Sao Tome and Principe",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ST",
+	"countryCode3": "STP",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Sao_Tome",
+		"offsetTimeZone": "(GMT+01:00) Africa/Sao_Tome"
+	}]
+}, {
+	"name": "Saudi Arabia",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "SA",
+	"countryCode3": "SAU",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Riyadh",
+		"offsetTimeZone": "(GMT+03:00) Asia/Riyadh"
+	}]
+}, {
+	"name": "Senegal",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SN",
+	"countryCode3": "SEN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Dakar",
+		"offsetTimeZone": "(GMT+00:00) Africa/Dakar"
+	}]
+}, {
+	"name": "Serbia",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "RS",
+	"countryCode3": "SRB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Belgrade",
+		"offsetTimeZone": "(GMT+01:00) Europe/Belgrade"
+	}]
+}, {
+	"name": "Seychelles",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SC",
+	"countryCode3": "SYC",
+	"timeZoneOffset": [{
+		"timeZoneId": "Indian/Mahe",
+		"offsetTimeZone": "(GMT+04:00) Indian/Mahe"
+	}]
+}, {
+	"name": "Sierra Leone",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SL",
+	"countryCode3": "SLE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Freetown",
+		"offsetTimeZone": "(GMT+00:00) Africa/Freetown"
+	}]
+}, {
+	"name": "Singapore",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "SG",
+	"countryCode3": "SGP",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Singapore",
+		"offsetTimeZone": "(GMT+08:00) Asia/Singapore"
+	}, {
+		"timeZoneId": "Singapore",
+		"offsetTimeZone": "(GMT+08:00) Singapore"
+	}]
+}, {
+	"name": "Sint Maarten (Dutch part)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "SX",
+	"countryCode3": "SXM",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Lower_Princes",
+		"offsetTimeZone": "(GMT-04:00) America/Lower_Princes"
+	}]
+}, {
+	"name": "Slovakia",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "SK",
+	"countryCode3": "SVK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Bratislava",
+		"offsetTimeZone": "(GMT+01:00) Europe/Bratislava"
+	}]
+}, {
+	"name": "Slovenia",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "SI",
+	"countryCode3": "SVN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Ljubljana",
+		"offsetTimeZone": "(GMT+01:00) Europe/Ljubljana"
+	}]
+}, {
+	"name": "Solomon Islands",
+	"region": "Oceania",
+	"sub-region": "Melanesia",
+	"countryCode": "SB",
+	"countryCode3": "SLB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Guadalcanal",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Guadalcanal"
+	}, {
+		"timeZoneId": "SST",
+		"offsetTimeZone": "(GMT+11:00) SST"
+	}]
+}, {
+	"name": "Somalia",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SO",
+	"countryCode3": "SOM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Mogadishu",
+		"offsetTimeZone": "(GMT+03:00) Africa/Mogadishu"
+	}]
+}, {
+	"name": "South Africa",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ZA",
+	"countryCode3": "ZAF",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Johannesburg",
+		"offsetTimeZone": "(GMT+02:00) Africa/Johannesburg"
+	}]
+}, {
+	"name": "South Georgia and the South Sandwich Islands",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "GS",
+	"countryCode3": "SGS",
+	"timeZoneOffset": [{
+		"timeZoneId": "Atlantic/South_Georgia",
+		"offsetTimeZone": "(GMT-02:00) Atlantic/South_Georgia"
+	}]
+}, {
+	"name": "South Sudan",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SS",
+	"countryCode3": "SSD",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Juba",
+		"offsetTimeZone": "(GMT+03:00) Africa/Juba"
+	}]
+}, {
+	"name": "Spain",
+	"region": "Europe",
+	"sub-region": "Southern Europe",
+	"countryCode": "ES",
+	"countryCode3": "ESP",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Ceuta",
+		"offsetTimeZone": "(GMT+01:00) Africa/Ceuta"
+	}, {
+		"timeZoneId": "Atlantic/Canary",
+		"offsetTimeZone": "(GMT+00:00) Atlantic/Canary"
+	}, {
+		"timeZoneId": "Europe/Madrid",
+		"offsetTimeZone": "(GMT+01:00) Europe/Madrid"
+	}]
+}, {
+	"name": "Sri Lanka",
+	"region": "Asia",
+	"sub-region": "Southern Asia",
+	"countryCode": "LK",
+	"countryCode3": "LKA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Colombo",
+		"offsetTimeZone": "(GMT+05:30) Asia/Colombo"
+	}]
+}, {
+	"name": "Sudan",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "SD",
+	"countryCode3": "SDN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Khartoum",
+		"offsetTimeZone": "(GMT+02:00) Africa/Khartoum"
+	}]
+}, {
+	"name": "Suriname",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "SR",
+	"countryCode3": "SUR",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Paramaribo",
+		"offsetTimeZone": "(GMT-03:00) America/Paramaribo"
+	}]
+}, {
+	"name": "Svalbard and Jan Mayen",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "SJ",
+	"countryCode3": "SJM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Arctic/Longyearbyen",
+		"offsetTimeZone": "(GMT+01:00) Arctic/Longyearbyen"
+	}]
+}, {
+	"name": "Swaziland",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "SZ",
+	"countryCode3": "SWZ",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Mbabane",
+		"offsetTimeZone": "(GMT+02:00) Africa/Mbabane"
+	}]
+}, {
+	"name": "Sweden",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "SE",
+	"countryCode3": "SWE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Stockholm",
+		"offsetTimeZone": "(GMT+01:00) Europe/Stockholm"
+	}]
+}, {
+	"name": "Switzerland",
+	"region": "Europe",
+	"sub-region": "Western Europe",
+	"countryCode": "CH",
+	"countryCode3": "CHE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Zurich",
+		"offsetTimeZone": "(GMT+01:00) Europe/Zurich"
+	}]
+}, {
+	"name": "Syrian Arab Republic",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "SY",
+	"countryCode3": "SYR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Damascus",
+		"offsetTimeZone": "(GMT+02:00) Asia/Damascus"
+	}]
+}, {
+	"name": "Taiwan, Province of China",
+	"region": "Asia",
+	"sub-region": "Eastern Asia",
+	"countryCode": "TW",
+	"countryCode3": "TWN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Taipei",
+		"offsetTimeZone": "(GMT+08:00) Asia/Taipei"
+	}, {
+		"timeZoneId": "ROC",
+		"offsetTimeZone": "(GMT+08:00) ROC"
+	}]
+}, {
+	"name": "Tajikistan",
+	"region": "Asia",
+	"sub-region": "Central Asia",
+	"countryCode": "TJ",
+	"countryCode3": "TJK",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Dushanbe",
+		"offsetTimeZone": "(GMT+05:00) Asia/Dushanbe"
+	}]
+}, {
+	"name": "Tanzania, United Republic of",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "TZ",
+	"countryCode3": "TZA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Dar_es_Salaam",
+		"offsetTimeZone": "(GMT+03:00) Africa/Dar_es_Salaam"
+	}]
+}, {
+	"name": "Thailand",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "TH",
+	"countryCode3": "THA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Bangkok",
+		"offsetTimeZone": "(GMT+07:00) Asia/Bangkok"
+	}]
+}, {
+	"name": "Timor-Leste",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "TL",
+	"countryCode3": "TLS",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Dili",
+		"offsetTimeZone": "(GMT+09:00) Asia/Dili"
+	}]
+}, {
+	"name": "Togo",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "TG",
+	"countryCode3": "TGO",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Lome",
+		"offsetTimeZone": "(GMT+00:00) Africa/Lome"
+	}]
+}, {
+	"name": "Tokelau",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "TK",
+	"countryCode3": "TKL",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Fakaofo",
+		"offsetTimeZone": "(GMT+13:00) Pacific/Fakaofo"
+	}]
+}, {
+	"name": "Tonga",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "TO",
+	"countryCode3": "TON",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Tongatapu",
+		"offsetTimeZone": "(GMT+13:00) Pacific/Tongatapu"
+	}]
+}, {
+	"name": "Trinidad and Tobago",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "TT",
+	"countryCode3": "TTO",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Port_of_Spain",
+		"offsetTimeZone": "(GMT-04:00) America/Port_of_Spain"
+	}, {
+		"timeZoneId": "America/Virgin",
+		"offsetTimeZone": "(GMT-04:00) America/Virgin"
+	}]
+}, {
+	"name": "Tunisia",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "TN",
+	"countryCode3": "TUN",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Tunis",
+		"offsetTimeZone": "(GMT+01:00) Africa/Tunis"
+	}]
+}, {
+	"name": "Turkey",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "TR",
+	"countryCode3": "TUR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Istanbul",
+		"offsetTimeZone": "(GMT+03:00) Asia/Istanbul"
+	}, {
+		"timeZoneId": "Europe/Istanbul",
+		"offsetTimeZone": "(GMT+03:00) Europe/Istanbul"
+	}, {
+		"timeZoneId": "Turkey",
+		"offsetTimeZone": "(GMT+03:00) Turkey"
+	}]
+}, {
+	"name": "Turkmenistan",
+	"region": "Asia",
+	"sub-region": "Central Asia",
+	"countryCode": "TM",
+	"countryCode3": "TKM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Ashgabat",
+		"offsetTimeZone": "(GMT+05:00) Asia/Ashgabat"
+	}, {
+		"timeZoneId": "Asia/Ashkhabad",
+		"offsetTimeZone": "(GMT+05:00) Asia/Ashkhabad"
+	}]
+}, {
+	"name": "Turks and Caicos Islands",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "TC",
+	"countryCode3": "TCA",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Grand_Turk",
+		"offsetTimeZone": "(GMT-05:00) America/Grand_Turk"
+	}]
+}, {
+	"name": "Tuvalu",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "TV",
+	"countryCode3": "TUV",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Funafuti",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Funafuti"
+	}]
+}, {
+	"name": "Uganda",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "UG",
+	"countryCode3": "UGA",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Kampala",
+		"offsetTimeZone": "(GMT+03:00) Africa/Kampala"
+	}]
+}, {
+	"name": "Ukraine",
+	"region": "Europe",
+	"sub-region": "Eastern Europe",
+	"countryCode": "UA",
+	"countryCode3": "UKR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Kiev",
+		"offsetTimeZone": "(GMT+02:00) Europe/Kiev"
+	}, {
+		"timeZoneId": "Europe/Simferopol",
+		"offsetTimeZone": "(GMT+03:00) Europe/Simferopol"
+	}, {
+		"timeZoneId": "Europe/Uzhgorod",
+		"offsetTimeZone": "(GMT+02:00) Europe/Uzhgorod"
+	}, {
+		"timeZoneId": "Europe/Zaporozhye",
+		"offsetTimeZone": "(GMT+02:00) Europe/Zaporozhye"
+	}]
+}, {
+	"name": "United Arab Emirates",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "AE",
+	"countryCode3": "ARE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Dubai",
+		"offsetTimeZone": "(GMT+04:00) Asia/Dubai"
+	}]
+}, {
+	"name": "United Kingdom of Great Britain and Northern Ireland",
+	"region": "Europe",
+	"sub-region": "Northern Europe",
+	"countryCode": "GB",
+	"countryCode3": "GBR",
+	"timeZoneOffset": [{
+		"timeZoneId": "Europe/Belfast",
+		"offsetTimeZone": "(GMT+00:00) Europe/Belfast"
+	}, {
+		"timeZoneId": "Europe/London",
+		"offsetTimeZone": "(GMT+00:00) Europe/London"
+	}, {
+		"timeZoneId": "GB",
+		"offsetTimeZone": "(GMT+00:00) GB"
+	}, {
+		"timeZoneId": "GB-Eire",
+		"offsetTimeZone": "(GMT+00:00) GB-Eire"
+	}]
+}, {
+	"name": "United States of America",
+	"region": "Americas",
+	"sub-region": "Northern America",
+	"countryCode": "US",
+	"countryCode3": "USA",
+	"timeZoneOffset": [{
+		"timeZoneId": "AST",
+		"offsetTimeZone": "(GMT-09:00) AST"
+	}, {
+		"timeZoneId": "America/Adak",
+		"offsetTimeZone": "(GMT-10:00) America/Adak"
+	}, {
+		"timeZoneId": "America/Anchorage",
+		"offsetTimeZone": "(GMT-09:00) America/Anchorage"
+	}, {
+		"timeZoneId": "America/Atka",
+		"offsetTimeZone": "(GMT-10:00) America/Atka"
+	}, {
+		"timeZoneId": "America/Boise",
+		"offsetTimeZone": "(GMT-07:00) America/Boise"
+	}, {
+		"timeZoneId": "America/Chicago",
+		"offsetTimeZone": "(GMT-06:00) America/Chicago"
+	}, {
+		"timeZoneId": "America/Denver",
+		"offsetTimeZone": "(GMT-07:00) America/Denver"
+	}, {
+		"timeZoneId": "America/Detroit",
+		"offsetTimeZone": "(GMT-05:00) America/Detroit"
+	}, {
+		"timeZoneId": "America/Fort_Wayne",
+		"offsetTimeZone": "(GMT-05:00) America/Fort_Wayne"
+	}, {
+		"timeZoneId": "America/Indiana/Indianapolis",
+		"offsetTimeZone": "(GMT-05:00) America/Indiana/Indianapolis"
+	}, {
+		"timeZoneId": "America/Indiana/Knox",
+		"offsetTimeZone": "(GMT-06:00) America/Indiana/Knox"
+	}, {
+		"timeZoneId": "America/Indiana/Marengo",
+		"offsetTimeZone": "(GMT-05:00) America/Indiana/Marengo"
+	}, {
+		"timeZoneId": "America/Indiana/Petersburg",
+		"offsetTimeZone": "(GMT-05:00) America/Indiana/Petersburg"
+	}, {
+		"timeZoneId": "America/Indiana/Tell_City",
+		"offsetTimeZone": "(GMT-06:00) America/Indiana/Tell_City"
+	}, {
+		"timeZoneId": "America/Indiana/Vevay",
+		"offsetTimeZone": "(GMT-05:00) America/Indiana/Vevay"
+	}, {
+		"timeZoneId": "America/Indiana/Vincennes",
+		"offsetTimeZone": "(GMT-05:00) America/Indiana/Vincennes"
+	}, {
+		"timeZoneId": "America/Indiana/Winamac",
+		"offsetTimeZone": "(GMT-05:00) America/Indiana/Winamac"
+	}, {
+		"timeZoneId": "America/Indianapolis",
+		"offsetTimeZone": "(GMT-05:00) America/Indianapolis"
+	}, {
+		"timeZoneId": "America/Juneau",
+		"offsetTimeZone": "(GMT-09:00) America/Juneau"
+	}, {
+		"timeZoneId": "America/Kentucky/Louisville",
+		"offsetTimeZone": "(GMT-05:00) America/Kentucky/Louisville"
+	}, {
+		"timeZoneId": "America/Kentucky/Monticello",
+		"offsetTimeZone": "(GMT-05:00) America/Kentucky/Monticello"
+	}, {
+		"timeZoneId": "America/Knox_IN",
+		"offsetTimeZone": "(GMT-06:00) America/Knox_IN"
+	}, {
+		"timeZoneId": "America/Los_Angeles",
+		"offsetTimeZone": "(GMT-08:00) America/Los_Angeles"
+	}, {
+		"timeZoneId": "America/Louisville",
+		"offsetTimeZone": "(GMT-05:00) America/Louisville"
+	}, {
+		"timeZoneId": "America/Menominee",
+		"offsetTimeZone": "(GMT-06:00) America/Menominee"
+	}, {
+		"timeZoneId": "America/Metlakatla",
+		"offsetTimeZone": "(GMT-09:00) America/Metlakatla"
+	}, {
+		"timeZoneId": "America/New_York",
+		"offsetTimeZone": "(GMT-05:00) America/New_York"
+	}, {
+		"timeZoneId": "America/Nome",
+		"offsetTimeZone": "(GMT-09:00) America/Nome"
+	}, {
+		"timeZoneId": "America/North_Dakota/Beulah",
+		"offsetTimeZone": "(GMT-06:00) America/North_Dakota/Beulah"
+	}, {
+		"timeZoneId": "America/North_Dakota/Center",
+		"offsetTimeZone": "(GMT-06:00) America/North_Dakota/Center"
+	}, {
+		"timeZoneId": "America/North_Dakota/New_Salem",
+		"offsetTimeZone": "(GMT-06:00) America/North_Dakota/New_Salem"
+	}, {
+		"timeZoneId": "America/Phoenix",
+		"offsetTimeZone": "(GMT-07:00) America/Phoenix"
+	}, {
+		"timeZoneId": "America/Shiprock",
+		"offsetTimeZone": "(GMT-07:00) America/Shiprock"
+	}, {
+		"timeZoneId": "America/Sitka",
+		"offsetTimeZone": "(GMT-09:00) America/Sitka"
+	}, {
+		"timeZoneId": "America/Yakutat",
+		"offsetTimeZone": "(GMT-09:00) America/Yakutat"
+	}, {
+		"timeZoneId": "CST",
+		"offsetTimeZone": "(GMT-06:00) CST"
+	}, {
+		"timeZoneId": "IET",
+		"offsetTimeZone": "(GMT-05:00) IET"
+	}, {
+		"timeZoneId": "Navajo",
+		"offsetTimeZone": "(GMT-07:00) Navajo"
+	}, {
+		"timeZoneId": "PNT",
+		"offsetTimeZone": "(GMT-07:00) PNT"
+	}, {
+		"timeZoneId": "PST",
+		"offsetTimeZone": "(GMT-08:00) PST"
+	}, {
+		"timeZoneId": "Pacific/Honolulu",
+		"offsetTimeZone": "(GMT-10:00) Pacific/Honolulu"
+	}, {
+		"timeZoneId": "US/Alaska",
+		"offsetTimeZone": "(GMT-09:00) US/Alaska"
+	}, {
+		"timeZoneId": "US/Aleutian",
+		"offsetTimeZone": "(GMT-10:00) US/Aleutian"
+	}, {
+		"timeZoneId": "US/Arizona",
+		"offsetTimeZone": "(GMT-07:00) US/Arizona"
+	}, {
+		"timeZoneId": "US/Central",
+		"offsetTimeZone": "(GMT-06:00) US/Central"
+	}, {
+		"timeZoneId": "US/East-Indiana",
+		"offsetTimeZone": "(GMT-05:00) US/East-Indiana"
+	}, {
+		"timeZoneId": "US/Eastern",
+		"offsetTimeZone": "(GMT-05:00) US/Eastern"
+	}, {
+		"timeZoneId": "US/Hawaii",
+		"offsetTimeZone": "(GMT-10:00) US/Hawaii"
+	}, {
+		"timeZoneId": "US/Indiana-Starke",
+		"offsetTimeZone": "(GMT-06:00) US/Indiana-Starke"
+	}, {
+		"timeZoneId": "US/Michigan",
+		"offsetTimeZone": "(GMT-05:00) US/Michigan"
+	}, {
+		"timeZoneId": "US/Mountain",
+		"offsetTimeZone": "(GMT-07:00) US/Mountain"
+	}, {
+		"timeZoneId": "US/Pacific",
+		"offsetTimeZone": "(GMT-08:00) US/Pacific"
+	}, {
+		"timeZoneId": "US/Pacific-New",
+		"offsetTimeZone": "(GMT-08:00) US/Pacific-New"
+	}]
+}, {
+	"name": "United States Minor Outlying Islands",
+	"region": "Oceania",
+	"sub-region": "Micronesia",
+	"countryCode": "UM",
+	"countryCode3": "UMI",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Johnston",
+		"offsetTimeZone": "(GMT-10:00) Pacific/Johnston"
+	}, {
+		"timeZoneId": "Pacific/Midway",
+		"offsetTimeZone": "(GMT-11:00) Pacific/Midway"
+	}, {
+		"timeZoneId": "Pacific/Wake",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Wake"
+	}]
+}, {
+	"name": "Uruguay",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "UY",
+	"countryCode3": "URY",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Montevideo",
+		"offsetTimeZone": "(GMT-03:00) America/Montevideo"
+	}]
+}, {
+	"name": "Uzbekistan",
+	"region": "Asia",
+	"sub-region": "Central Asia",
+	"countryCode": "UZ",
+	"countryCode3": "UZB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Samarkand",
+		"offsetTimeZone": "(GMT+05:00) Asia/Samarkand"
+	}, {
+		"timeZoneId": "Asia/Tashkent",
+		"offsetTimeZone": "(GMT+05:00) Asia/Tashkent"
+	}]
+}, {
+	"name": "Vanuatu",
+	"region": "Oceania",
+	"sub-region": "Melanesia",
+	"countryCode": "VU",
+	"countryCode3": "VUT",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Efate",
+		"offsetTimeZone": "(GMT+11:00) Pacific/Efate"
+	}]
+}, {
+	"name": "Venezuela (Bolivarian Republic of)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "VE",
+	"countryCode3": "VEN",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Caracas",
+		"offsetTimeZone": "(GMT-04:00) America/Caracas"
+	}]
+}, {
+	"name": "Viet Nam",
+	"region": "Asia",
+	"sub-region": "South-eastern Asia",
+	"countryCode": "VN",
+	"countryCode3": "VNM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Ho_Chi_Minh",
+		"offsetTimeZone": "(GMT+07:00) Asia/Ho_Chi_Minh"
+	}, {
+		"timeZoneId": "Asia/Saigon",
+		"offsetTimeZone": "(GMT+07:00) Asia/Saigon"
+	}, {
+		"timeZoneId": "VST",
+		"offsetTimeZone": "(GMT+07:00) VST"
+	}]
+}, {
+	"name": "Virgin Islands (British)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "VG",
+	"countryCode3": "VGB",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/Tortola",
+		"offsetTimeZone": "(GMT-04:00) America/Tortola"
+	}]
+}, {
+	"name": "Virgin Islands (U.S.)",
+	"region": "Americas",
+	"sub-region": "Latin America and the Caribbean",
+	"countryCode": "VI",
+	"countryCode3": "VIR",
+	"timeZoneOffset": [{
+		"timeZoneId": "America/St_Thomas",
+		"offsetTimeZone": "(GMT-04:00) America/St_Thomas"
+	}]
+}, {
+	"name": "Wallis and Futuna",
+	"region": "Oceania",
+	"sub-region": "Polynesia",
+	"countryCode": "WF",
+	"countryCode3": "WLF",
+	"timeZoneOffset": [{
+		"timeZoneId": "Pacific/Wallis",
+		"offsetTimeZone": "(GMT+12:00) Pacific/Wallis"
+	}]
+}, {
+	"name": "Western Sahara",
+	"region": "Africa",
+	"sub-region": "Northern Africa",
+	"countryCode": "EH",
+	"countryCode3": "ESH",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/El_Aaiun",
+		"offsetTimeZone": "(GMT+00:00) Africa/El_Aaiun"
+	}]
+}, {
+	"name": "Yemen",
+	"region": "Asia",
+	"sub-region": "Western Asia",
+	"countryCode": "YE",
+	"countryCode3": "YEM",
+	"timeZoneOffset": [{
+		"timeZoneId": "Asia/Aden",
+		"offsetTimeZone": "(GMT+03:00) Asia/Aden"
+	}]
+}, {
+	"name": "Zambia",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ZM",
+	"countryCode3": "ZMB",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Lusaka",
+		"offsetTimeZone": "(GMT+02:00) Africa/Lusaka"
+	}]
+}, {
+	"name": "Zimbabwe",
+	"region": "Africa",
+	"sub-region": "Sub-Saharan Africa",
+	"countryCode": "ZW",
+	"countryCode3": "ZWE",
+	"timeZoneOffset": [{
+		"timeZoneId": "Africa/Harare",
+		"offsetTimeZone": "(GMT+02:00) Africa/Harare"
+	}]
+}]
